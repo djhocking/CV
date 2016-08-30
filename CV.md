@@ -1,532 +1,255 @@
-Ethan White's Curriculum Vitae
+## *Curriculum Vitae*
+
+Daniel J. Hocking
 ==============================
 
 Contact
 -------
-Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Twitter: [@ethanwhite](https://twitter.com/ethanwhite)  
-Website: [ethanwhite.org](http://ethanwhite.org)  
-Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
-      Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
+Email: [djhocking@frostburg.edu](mailto:djhocking@frostburg.edu)  
+Twitter: @[djhocking](https://twitter.com/djhocking)  
+Website: [http://hockinglab.weebly.com/](http://hockinglab.weebly.com/)  
+Mail: Department of Biology, Frostburg State University, 309 Compton Science Center, 101 Braddock Road, Frostburg, MD 21532-2303; 
+Phone: 301-687-4343
 
 Education
 ---------
-2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico  
-1998 \hspace{4mm} BA Biology (*magna cum laude*), Colorado College
+
+2012 \hspace{4mm} PhD Natural Resources & Environmental Science, University of New Hampshire  
+
+2007 \hspace{4mm} MA Biological Sciences, University of Missouri
+
+2003 \hspace{4mm} BS Environmental Science (*magna cum laude*), University of New Hampshire 
+
 
 Research and Professional Experience
 ------------------------------------
-2012- \hspace{10mm} Associate Professor, Dept. of Biology and Ecology Center, Utah
-State University  
-2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
-Station  
-2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
-University  
-2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
+
+2016 - present \hspace{10mm} Assistant Professor, Dept. of Biology, Frostburg
+State University, Frostburg, MD
+
+2014 – 2016 \hspace{10mm} USGS Mendenhall Postdoctoral Fellow, Conte Anadromous Fish Research Laboratory, Turners Falls, MA
+
+2014 – 2016 \hspace{10mm} Postdoctoral Fellow, DOI Northeast Climate Science Center, University of Massachusetts, Amherst, MA
+
+2012 – 2013 \hspace{10mm} Postdoctoral Research Associate, University of New Hampshire, Durham, NH
 
 Fellowships and Awards
 ----------------------
-Moore Foundation Investigator in Data-Driven Discovery 2014-2019  
-NSF CAREER 'Young Investigators' Award 2010-2015  
-NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
-NSF Graduate Research Fellowship 2000-2005  
-University of New Mexico Biocomplexity Fellowship 2002-2004  
-Richard G. Beidleman Award 1998 (Colorado College)  
-Phi Beta Kappa 1998
+
+* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land use impacts on brook trout population persistence. 2014-2016.
+* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011.
+* University of New Hampshire. Summer T.A. Fellowship. 2008, 2009.
+* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008.
+* Life Science Fellowship, University of Missouri. 2004-2006.
 
 Publications
 ------------
-Publication Impact:
-[Impact Story](http://impactstory.org/ethanwhite#article),
-[Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
-(citations =  2431, h-index = 25)  
+
+[Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
+(citations = 407, h-index = 9)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
-
 ### Journal Articles
 
-Xiao, X.\*, K.J. Locey\*, E.P. White. 2015. A process-independent explanation
-for the general form of Taylor's Law. American
-Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
-[**OA**, [Code](https://github.com/weecology/TL), [Data](http://dx.doi.org/10.5061/dryad.h1c09), [Preprint](http://arxiv.org/abs/1410.7283)]
+Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](http://)]
 
-White, E.P. 2015. Some thoughts on best publishing practices for scientific
-software. Ideas in Ecology and Evolution 8:55-57.
-[http://dx.doi.org/10.4033/iee.2015.8.9.c](http://dx.doi.org/10.4033/iee.2015.8.9.c)
-[**OA**]
+Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Review*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
-spatially explicit predictions of the Maximum Entropy Theory of Ecology. Global
-Ecology and Biogeography
-24:675-684. [http://dx.doi.org/10.1111/geb.12295](http://dx.doi.org/10.1111/geb.12295)
-[**OA**, [Code](https://github.com/weecology/mete-spatial), [Preprint](http://dx.doi.org/10.1101/003657)]
+Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Review*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology.
 
-Teal, T.K., K.A. Cranston, H. Lapp, E.P. White, G. Wilson, K. Ram,
-A. Pawlik. 2015. Data Carpentry: Workshops to Increase Data Literacy for
-Researchers. International Journal of Digital Curation
-10:135-143. [http://dx.doi.org/10.2218/ijdc.v10i1.351](http://dx.doi.org/10.2218/ijdc.v10i1.351) [**OA**]
+Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Review*. Synchrony in small mammal community dynamics across a forested landscape. Ecography.
 
-Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2015. A strong test of the
-Maximum Entropy Theory of Ecology. American Naturalist
-185:E70-E80. [http://dx.doi.org/10.1086/679576](http://dx.doi.org/10.1086/679576)
-[**OA**, [Code](https://github.com/weecology/mete-energy),
-[Data](http://dx.doi.org/10.5061/dryad.5fn46),
-[Preprint](http://arxiv.org/abs/1308.0731)]
+Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
-Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/szw5h7odb3dtkf8ql0l8w6f0/metrics)]
+Milanovich, J.R., D.J. Hocking, W.E. Peterman, and J.A. Crawford. 2016. Effective use of trails for assessing terrestrial salamander abundance and detection:  A case study at Great Smoky Mountains National Park. Natural Areas Journal. 35(4):590-598. [http://dx.doi.org/10.3375/043.035.0412](http://dx.doi.org/10.3375/043.035.0412)
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical
-comparison of four variants of a universal species-area relationship. PeerJ
-1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212)
-[**OA**, [Code](https://github.com/weecology/mete-spatial), [Preprint](http://arxiv.org/abs/1308.0655)]
+Anderson, T. L., D. J. Hocking, C. A. Conner, J. E. Earl, E. B. Harper, M. S. Osbourn, W. E. Peterman, T. A. G. Rittenhouse, and R. D. Semlitsch. 2015. Abundance and phenology patterns of two pond-breeding salamanders determine species interactions in natural populations. Oecologia. 177(3):761-73. [http://dx.doi.org/10.1007/s00442-014-3151-z](http://dx.doi.org/10.1007/s00442-014-3151-z)
 
-Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance
-constrain the distribution of abundance. Ecology
-Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
-[[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/), [Code](https://github.com/weecology/feasiblesets)]
+Drake, D.L, B.H. Ousterhout, C.D. Shulse, D.J. Hocking, W.E. Peterman, T.A. Anderson, K.L. Lohraff, C.A. Conner, E.H. Harper, J.R. Johnson, T.A.G. Rittenhouse, B.B. Rothermel, L.S. Eggert, and R.D. Semlitsch. 2015. Pond-breeding amphibian community composition in Missouri. American Midland Naturalist. 174:180-187.
 
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
+Hocking, D. J. and K. J. Babbitt. 2014. Amphibian Contributions to Ecosystem Services. Herpetological Conservation and Biology. 9(1):1-17. [**OA**]
 
-Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [**OA**, [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710), *Featured discussion in PLOS Biology*, [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/29vxw5uy64s3x0n69wrvqimc/metrics)]
+Hocking, D. J. and K. J. Babbitt. 2014. The role of red-backed salamanders on ecosystem functions. PLoS ONE 9(1):e86854. [http://dx.doi.org/10.1371/journal.pone.0086854](http://dx.doi.org/10.1371/journal.pone.0086854) [**OA**]
 
-Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to
-existing ecological data. PLOS ONE
-8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848)
-[**OA**, [Software](https://github.com/weecology/retriever)]
+Hocking, D. J. 2013. Comparing the influence of ecology journals using citation metrics: making sense of a multitude of metrics. Ideas in Ecology & Evolution. 6(1): 55–65. [http://dx.doi.org/10.4033/iee.v6i1.4949](http://dx.doi.org/10.4033/iee.v6i1.4949) [**OA**]
 
-Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive
-diversity patterns of core and occasional bird species. American Naturalist
-181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903)
-[**OA**, [Data](http://datadryad.org/resource/doi:10.5061/dryad.q82nn)]
+Hocking, D. J., S. A. Callaghan, K. J. Babbitt, and M. Yamasaki. 2013. Comparison of silvicultural and natural disturbance effects on terrestrial salamanders in northern hardwood forests. Biological Conservation. 167:194-202. [http://dx.doi.org/10.1016/j.biocon.2013.08.006](http://dx.doi.org/10.1016/j.biocon.2013.08.006)
 
-Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental
-evidence suggests that macroecological patterns are determined primarily by
-species richness and total abundance.  Ecology
-93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1)
-[**OA**, [Code](https://github.com/weecology/portal-experimental-macroeco),
-[Data](https://github.com/weecology/portal-experimental-macroeco), *Top 4 Articles in Ecology in year following publication*]
+Hocking, D. J., G. M. Connette, C. A. Conner, B. R. Scheffers, S. E. Pittman, W. E. Peterman, R. D. Semlitsch. 2013. Effects of experimental forest management on a terrestrial, woodland salamander in Missouri. Forest Ecology and Management. 287:32-39
 
-White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing
-species-abundance distributions across taxa and ecosystems using a simple
-maximum entropy model. Ecology
-93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1)
-[**OA**, [Code](https://github.com/weecology/white-etal-2012-ecology),
-[Data](https://github.com/weecology/white-etal-2012-ecology), *White and Thibault contributed equally to this work*]
+Osbourn, M. S., D. J. Hocking, C. A. Conner, W. E. Peterman, and R. D. Semlitsch. 2011. Use of fluorescent visible implant Alphanumeric tags to individually mark juvenile ambystomatid salamanders. Herpetological Review 42(1):43-46.
 
-Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen/*/*, E.P. White,
-S.K.M. Ernest. 2011. Species composition and abundance of mammalian
-communities. Ecology
-92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1)
-[**OA**]
+Hocking, D. J. 2010. Hyla squirella (squirrel treefrog) reproduction. Herpetological Review 41(1):64.
 
-Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of
-log-transformation vs. nonlinear regression for analyzing biological
-power-laws. Ecology 92:
-1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1)
-[**OA**, [Code](http://www.esapubs.org/archive/ecol/E092/160/suppl-2.htm), [Data](http://www.esapubs.org/archive/ecol/E092/160/suppl-1.htm)]
+Semlitsch, R. D., S. M Blomquist, A. J. K. Calhoun, J.W. Gibbons, J. P. Gibbs, G. J. Graeter, E. B. Harper, D. J. Hocking, M. L. Hunter, D. A. Patrick, T. A. G. Rittenhouse, B. B. Rothermel, and B. D. Todd. 2009. Effects of timber management on amphibian populations: understanding mechanisms from forest experiments. Bioscience 59(10):853-862. (Cover Photograph)
 
-Stegen, J.C., N.G. Swenson, B.J. Enquist, E.P. White, O.L. Phillips, P.M. Jorgensen, M.D. Weiser, A.M. Mendoza, and P. Nunez Vargas. 2011. Variation in above-ground forest biomass across broad climatic gradients. Global Ecology and Biogeography 20:744-754. [http://doi.org/10.1111/j.1466-8238.2010.00645.x](http://doi.org/10.1111/j.1466-8238.2010.00645.x)
+Scheffers, B., E. D. McDonald, D. J. Hocking, C. A. Conner, and R. D. Semlitsch. 2009. A comparison of two artificial cover objects for sampling amphibians and reptiles. Herpetological Review 40(4):419-421.
 
-Locey, K.J.\* and E.P. White. 2011. Simple structural differences between coding and noncoding DNA. PLOS One 6:e14651. [http://doi.org/10.1371/journal.pone.0014651](http://doi.org/10.1371/journal.pone.0014651) [**OA**]
+Babbitt K. J., M. J. Baber, D. L. Childers, and D. J. Hocking. 2009. The influence of agricultural upland habitat type on larval anuran assemblages in seasonally-inundated wetlands. Wetlands 29(1):294-301.
 
-Thibault, K.M.<sup>+</sup>, E.P. White, A.H. Hurlbert, and S.K.M. Ernest. 2011. Multimodality in the individual size distribution of bird communities. Global Ecology and Biogeography 20:145-153. [http://doi.org/10.1111/j.1466-8238.2010.00576.x](http://doi.org/10.1111/j.1466-8238.2010.00576.x)
+Hocking, D. J. and R. D. Semlitsch. 2008. Effects of clearcut logging on gray treefrog (Hyla versicolor) tadpole performance. Journal of Herpetology 42:689-698.
 
-White, E.P., S.K.M. Ernest, P.B. Adler, A.H. Hurlbert, S.K. Lyons. 2010. Integrating spatial and temporal approaches to understanding species richness. Philosophical Transactions of the Royal Society B 365:3633-3643. [http://doi.org/10.1098/rstb.2010.0280](http://doi.org/10.1098/rstb.2010.0280) [**OA**]
+Hocking, D. J., T. A. G. Rittenhouse, B. B. Rothermel, J. R. Johnson, C. A. Conner, E. B. Harper, and R. D. Semlitsch. 2008. Breeding and recruitment phenology of amphibians in Missouri oak-hickory forests. American Midland Naturalist 160:41-60.
 
-White, E.P. and A.H. Hurlbert. 2010. The combined influence of the local environment and regional enrichment on bird species richness. American Naturalist 172:E35-E43. [http://doi.org/10.1086/649578](http://doi.org/10.1086/649578) [**OA**]
+Semlitsch, R. D., C. A. Conner, D. J. Hocking, T. A. G. Rittenhouse, and E. B. Harper. 2008. Effects of timber harvesting on pond-breeding amphibian persistence: testing the evacuation hypothesis. Ecological Applications 18(2):283-289.
 
-Supp, S.R.\* and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution 3:16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [**OA**]
+Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
-Thibault, K.M.<sup>+</sup>, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Long-term insights into the influence of precipitation on community dynamics in desert rodents. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
-
-Price, C.A., K. Ogle, E.P. White, and J.S. Weitz. 2009. Evaluating allometric scaling models in biology using hierarchical Bayesian approaches. Ecology Letters 12:641-651. [http://doi.org/10.1111/j.1461-0248.2009.01316.x](http://doi.org/10.1111/j.1461-0248.2009.01316.x) [**OA**]
-
-Ernest, S.K.M, E.P. White and J.H. Brown. 2009. Changes in a tropical forest support metabolic zero-sum dynamics. Ecology Letters 12:507-515. [http://doi.org/10.1111/j.1461-0248.2009.01305.x](http://doi.org/10.1111/j.1461-0248.2009.01305.x) [[**OA** Version](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886595/)]
-
-Morlon, H., E.P. White, R.S. Etienne, J.L. Green , A. Ostling, D. Alonso, B.J. Enquist, F. He, A.H. Hurlbert, A.E. Magurran, B.A. Maurer, B.J. McGill, H. Olff, D. Storch, and T. Zillio. 2009. Taking species abundance distributions beyond individuals. Ecology Letters 12:488-501. [http://doi.org/10.1111/j.1461-0248.2009.01318.x](http://doi.org/10.1111/j.1461-0248.2009.01318.x) [[**OA** Version](http://digitalcommons.usu.edu/biology_facpub/360/)]
-
-White, E.P., B.J. Enquist, and J.L. Green. 2008. On estimating the exponent of power-law frequency distributions. Ecology 89:905-912. [http://doi.org/10.1890/07-1288.1](http://doi.org/10.1890/07-1288.1) [**OA**]
-
-Ernest, S.K.M., J.H. Brown, K.M. Thibault, E.P. White, and J.R. Goheen. 2008. Zero-sum dynamics, the niche, and metacommunities: a temporal perspective on community assembly. American Naturalist 172:E257-E269. [http://doi.org/10.1086/592402](http://doi.org/10.1086/592402) [**OA**]
-
-Stegen, J.C. and E.P. White. 2008. On the relationship between mass and diameter distributions in tree communities. Ecology Letters 11:1287-1293. [http://doi.org/10.1111/j.1461-0248.2008.01242.x](http://doi.org/10.1111/j.1461-0248.2008.01242.x) [[**OA** Version](http://digitalcommons.usu.edu/biology_facpub/362/)]
-
-White, E.P., S.K.M. Ernest, A.J. Kerkhoff, and B.J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology and Evolution 22:323-330. [http://doi.org/10.1016/j.tree.2007.03.007](http://doi.org/10.1016/j.tree.2007.03.007) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1326&context=biology_facpub)]
-
-Hurlbert, A.H., and E.P. White. 2007. Ecological correlates of geographic range occupancy in North American birds. Global Ecology and Biogeography 16:764-773. [http://doi.org/10.1111/j.1466-8238.2007.00335.x](http://doi.org/10.1111/j.1466-8238.2007.00335.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1362&context=biology_facpub)]
-
-McGill, B.J., R. Etienne, J. Gray, D. Alonso, M. Anderson, H. Benecha, M. Dornelas, B.J. Enquist, J.L. Green, F. He, A.H. Hurlbert, A.E. Magurran, P. Marquet, B. Maurer, A. Ostling, C. Soykan, K. Ugland, and E.P. White. 2007. Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework. Ecology Letters 10:995-1015. [http://doi.org/10.1111/j.1461-0248.2007.01094.x](http://doi.org/10.1111/j.1461-0248.2007.01094.x) [**OA**]
-
-McClain, C.R., E.P. White, and A.H. Hurlbert. 2007. Challenges in the application of geometric constraint models. Global Ecology and Biogeography 16:257-264. [http://doi.org/10.1111/j.1466-8238.2007.00286.x](http://doi.org/10.1111/j.1466-8238.2007.00286.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1365&context=biology_facpub)]
-
-White, E.P., and M.A. Gilchrist. 2007. Effects of population level aggregation, autocorrelation, and interspecific association on the species-time relationship in two desert communities. Evolutionary Ecology Research 9:1329-1347. [[**OA** Version](http://whitelab.weecology.org/sites/default/files/white_ep_2007_e9_1329.pdf)]
-
-Savage, V.M., E.P. White, M.E. Moses, S.K.M. Ernest, B.J. Enquist, and E.L. Charnov. 2006. Comment on “The Illusion of Invariant Quantities in Life Histories”. Science 312:198b. [http://doi.org/10.1126/science.1123679](http://doi.org/10.1126/science.1123679) [**OA**]
-
-Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1328&context=biology_facpub)]
-
-White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[**OA** Version](http://works.bepress.com/ethan_white/15/), *Top 10 most cited paper in Oikos in 2006.*]
-
-Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067) [[**OA** Version](http://works.bepress.com/cgi/viewcontent.cgi?article=1015&context=ethan_white)]
-
-Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2005. Intra-guild compensation regulates species richness in desert rodents. Ecology 86:567-573. [http://doi.org/10.1890/04-1475](http://doi.org/10.1890/04-1475)
-
-Hurlbert, A.H., and E.P. White. 2005. Disparity between range map and survey based analyses of species richness: patterns, processes, and implications. Ecology Letters 8:319-327. [http://doi.org/10.1111/j.1461-0248.2005.00726.x](http://doi.org/10.1111/j.1461-0248.2005.00726.x)
-
-White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Tradeoffs in community properties through time in a desert rodent community. American Naturalist 164:670-676. [http://doi.org/10.1086/424766](http://doi.org/10.1086/424766) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1333&context=biology_facpub)]
-
-Thibault, K.M., E.P. White, and S.K.M. Ernest. 2004. Temporal dynamics in the structure and composition of a desert rodent community. Ecology 85:2649-2655. [http://doi.org/10.1890/04-0321](http://doi.org/10.1890/04-0321)
-
-White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1372&context=biology_facpub)]
-
-Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Was a ‘hyperdisease’ responsible for the late Pleistocene megafaunal extinction? Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
-
-White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2
-
-Ernest, S.K.M., B.J. Enquist, J.H. Brown, E.L. Charnov, J.F. Gillooly, V.M. Savage, E.P. White, F.A. Smith, E.A. Hadly, J.P. Haskell, S.K. Lyons, B.A. Maurer, K.J. Niklas, and B. Tiffney. 2003. Thermodynamic and metabolic effects on the scaling of production and population energy use. Ecology Letters 6:990-995. [http://doi.org/10.1046/j.1461-0248.2003.00526.x](http://doi.org/10.1046/j.1461-0248.2003.00526.x)
-
-Allen, A.P., and E.P. White. 2003. Interactive effects of range size and plot area on species-area relationships. Evolutionary Ecology Research 5:493-499.
-
-White, E.P., and S.D. Gehrt. 2001. Effects of recording media on echolocation data from broad band bat detectors. Wildlife Society Bulletin 29:974-978.
-
-
-### Book Chapters
-
-Brown, J.H., S.K.M. Ernest, E.P. White. 2014. Introduction to 'Macroecology before Macroecology'. Pages 13-16 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
-
-White, E.P. 2014. Commentary on Arrhenius (1920). Page 17 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
-
-White, E.P. 2014. Commentary on Fisher et al. (1943). Page 24 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
-
-White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell. [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub)]
-
-White, E.P. 2007. Spatiotemporal scaling of species richness: patterns, processes and implications. Pages 325-346 in D. Storch, P.A. Marquet, and J.H. Brown, editors. Scaling Biodiversity. Cambridge University Press.
-
-White, E.P., and J.H. Brown. 2005. The template: patterns and processes of spatial variation. Pages 31-47 in G.M. Lovett, C.G. Jones, M.G. Turner and K.C. Weathers, editors. Ecosystem Function in Heterogeneous Landscapes. Springer, New York.
-
-Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species invasions: Insights into the mechanisms that limit species diversity. Pages 447-465 in D.F. Sax, S.D. Gaines, and J.J. Stachowicz, editors. Species Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates, Sunderland, MA.
-
-### Preprints (not yet formally published)
-
-Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015.  Comparing process-based and
-constraint-based approaches for modeling macroecological
-patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
-
-Grants and Contracts
---------------------
-
-Moore Foundation. Investigator in Data-Driven Discovery. PI: E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
-
-National Science Foundation (DEB-1354563). SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
-
-National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using informatics and entropy maximization. PI: E.P. White. 2010-2015. [http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
-
-Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular and ecological neutral theories via genome based simulation. PIs: E.P. White and K.J. Locey. 2011-2013.
-
-National Ecological Observatory Network. Existing terrestrial organismal data survey and secure database interface development. PI: E.P. White. 2012.
-
-National Science Foundation (DEB-0827826). Understanding multimodality in animal size distributions (Research Starter Grant). PI: E.P. White. 2008-2010. [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939)
-
-National Science Foundation (DBI-0532847). Broad-scale patterns of the distribution of body sizes of individuals in ecological communities (Postdoctoral Fellowship in Biological
-Informatics). PI: E.P. White.  2005-2007. [http://doi.org/10.6084/m9.figshare.93938](http://doi.org/10.6084/m9.figshare.93938)
-
-LTER Network Office workshop grant. Species richness in space and time workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
-
-Software
---------
-
-Software Impact: [Impact Story](http://impactstory.org/ethanwhite#software)
-
-EcoData Retriever: tool for easy acquisition of public ecological datasets. By B.D. Morris and E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever) [[Highly recommended and highly cited](http://impactstory.org/ethanwhite/product/37058b0ebf0a11e1bdf912313d1a5e63), latest release downloaded over 250 times]
-
-METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE) [[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
-
-
-Invited Seminars
-----------------
-
-Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
-
-"On success and working openly in science". July 7th, 2015. OpenCon Community Webcast. [[Video](https://youtu.be/Za5bz06cHmk), [Slides](http://dx.doi.org/10.6084/m9.figshare.1476243)]
-
-"The value of data-intensive approaches in ecology". December 4th, 2014. University of Nebraska. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520)]
-
-"Mechanism, theory, data, and prediction in ecology". July 22nd, 2014. Gordon
-Research Conference on Unifying Ecology Across Scale. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1113773)]
-
-"The value of data-intensive approaches in ecology". April 4th, 2014. University of Victoria. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520)]
-
-"The value of data-intensive approaches in ecology". February 25th, 2014. University of Florida. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)]
-
-"Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
-
-"Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
-
-"Evaluating a general theory of macroecology" July 10th, 2013. Keynote for the British Ecological Society's Macroecology Special Interest Group Annual Meeting. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
-
-"Evaluating a general theory of macroecology using big(ish) data" February 8th, 2013. Michigan State University. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
-
-"Evaluating a general theory of macroecology using big(ish) data" February 4th, 2013. University of British Columbia. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
-
-"Frontiers of Macroecological Theory in Three Acts" February 1st, 2013. University of California Berkeley workshop on Frontiers of Macroecological Theory. [[Slides](http://doi.org/10.6084/m9.figshare.155618)]
-
-"A MaxEnt theory for macroecology?" July 25th, 2012. Gordon Research Conference on the Metabolic Basis of Ecology. [[Slides](http://doi.org/10.6084/m9.figshare.93963)]
-
-"Building a bigger macroscope". June 9th, 2012. University of New Mexico. [[Video](https://www.youtube.com/watch?v=lEQr5tP2vjw)]
-
-"Understanding ecology at broad scales: macroecology, maximum entropy, and environmental informatics". February 11th, 2011. University of Maryland.
-
-"Understanding ecology at broad scales using macroecology and ecoinformatics". March 30th, 2010. University of Wyoming.
-
-"A metabolic zero-sum approach to community ecology?". March 28th, 2008. Keynote speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
-
-
-Invited Workshops, Symposia, and Working Groups
------------------------------------------------
-
-"Ignite Session: Constraints in Ecology". 98th Annual Meeting of the Ecological
-Society of America. Organizers: Elita Baldridge and Ethan P. White. [[Schedule](http://eco.confex.com/eco/2013/webprogram/Session9001.html)]
-
-"Israeli-American Kavli Frontiers of Science Symposium". University of California Irvine. 2013. Irvine, CA. Organizers: National Academy of Sciences.
-
-"Frontiers of Macroecological Theory". University of California Berkeley. 2013. Berkeley, CA. Organizers: John Harte.
-
-"Synthesizing Deep Time and Recent Community Ecology”. Smithsonian National Museum of Natural History Working Group. 2010-2011. Washington D.C. Organizers: A.K. Behrensmeyer, S.K. Lyons, and W.A. DiMichele.
-
-"Tools and fresh approaches for species abundance distributions”. National Center for Ecological Analysis and Synthesis Working Group. 2006-2008. Santa Barbara, CA. Organizers: B. McGill, R.S. Etienne, J.S. Gray, and J.L. Green.
-
-"Scaling Biodiversity”. Santa Fe Institute Workshop. 2004. Prague. (Invited Talk and Participant). Organizers: D. Storch, P.A. Marquet, J.H. Brown, and G.B. West.
-
-"Species richness in space and time". LTER sponsored working group. 2004. Albuquerque, NM. Organizers: W.K. Lauenroth, E.P. White, and P.B. Adler.
-
-"Species richness in space and time". LTER All Scientists Meeting Workshop. 2003. Seattle, WA. (Invited Talk and Participant). Organizer: W.K. Lauenroth.
-
-"A Knowledge Network for Biocomplexity". National Center for Ecological Analysis and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman, M.R. Willig.
-
-Professional and Community Service
-----------------------------------
-### Grant Panels and Reviewing
-National Science Foundation Panelist (2009, 2012)  
-Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
-
-### Board Memberships & Affiliations
-Data Carpentry, Steering Committee (2015-present)  
-Impactstory, Board of Directors (2014-present)  
-University of Florida Biodiversity Institute, Advisory Board (2015-present)  
-Software Carpentry Foundation, Advisory Council (2015-present)  
-Hypothesis, User Advisory Team (2015-present)  
-Data Carpentry, Board of Directors (2014-2015)  
-Software Carpentry, Advisory Board (2012-2014)
-
-### Editorial Boards
-PeerJ (2012-present)  
-PLoS ONE (2011-2015)
-
-### Manuscript Reviewing
-Science, Nature, PNAS, PLOS Biology, Proceedings of the Royal Society B, Ecology, Ecology Letters, American Naturalist, Global Ecology and Biogeography, Journal of Animal Ecology, Journal of Ecology, Oikos, Frontiers in Ecology and the Environment, PLOS One, Bioscience, Bulletin of Mathematical Biology, Functional Ecology, Journal of Biogeography, Journal of Theoretical Biology, Theoretical Population Biology, Cambridge University Press, Acta Oecologica, Folia Geobotanica, Research Letters in Ecology, Geological Society of America
-
-External examiner of Ph.D. Theses: Macquarie University (2008)
-
-University Service
-------------------
-Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)  
-Promotion and tenure committees (member), Utah State University (2012-2014)  
-Adjunct appointment committee (chair), Utah State University (2011)  
-Faculty search committee (member), Utah State University (2011)  
-Staff search committee (member), Utah State University (2011)
 
 Teaching
 --------
 
-### Courses Taught
-Data Carpentry for Biologists (2015-present)  
-Advanced Programming and Database Management for Biologists (2011-2014)  
-Introduction to Programming and Database Management for Biologists (2010-2014)  
-Maximum Entropy in Ecology (2011)  
-Neutral Theories in Ecology (2010)  
-Biogeography (2008, 2009)
+### Courses
 
-### Workshops run
-Software Carpentry, Utah State University, April 2012  
-Software Carpentry, University of North Carolina, October 2012  
-Software Carpentry, University of British Columbia, February 2013  
-Software Carpentry, Utah State University, March 2013  
-Software Carpentry, CUAHSI Water Data Center, July 2013  
-Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
-Software Carpentry, University of Victoria, April 2014  
-Introduction to Git and GitHub, University of North Carolina, April 2014  
-Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
-2014  
-Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
-Across Scales, July 2014  
-Software Carpentry, Utah State University, March 2015
+* General Ecology (BIOL 340), Frostburg State University. 2016 - present. Spring, Fall.
+* Herpetology (BIOL 422/522), Frostburg State University. 2017 - present. Spring.
+* Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - present. Fall.
+* Vertebrate Biology (NR 655), University of New Hampshire. 2009.
+* Introduction to Conservation Biology (BIO 105), Moberly Area Community College, Columbia, MO. 2007.
 
-### Software Carpentry
-I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) across North America.
+### Certifications
 
+* Cognate in College Teaching, Center for Excellence in Teaching & * Learning, University of New Hampshire
+* Software Carpentry Instructor, Teaching Lab Skills for Scientific Computing [http://software-carpentry.org/](http://software-carpentry.org/) 
+
+### Teaching Assistant
+
+* 2007, 2009  Wildlife Techniques (NR 646), University of New Hampshire
+* 2008        Conservation Biology (NR 650), University of New Hampshire
+
+### Tutor
+
+* 2008-2010   Sociology Statistics (Soc 502), University of New Hampshire
+* 2010        Introductory Biology (Bio 412), University of New Hampshire
+* 2010        Freshwater Resources (NR 504), University of New Hampshire
+* 2009        Contemporary Conservation Issues (NR 435), University of New Hampshire
+
+### Environmental Education
+
+* 2003-2004   Senior Environmental Intern, National Audubon Society MD-DC, Bozman, MD
+* 2001-2002   Naturalist/Interpreter, Seacoast Science Center, Rye, NH
 
 Research Mentoring
 ------------------
-### Postdoctoral Associates
-
-Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
-Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of Charleston in Fall 2014.
 
 ### Graduate Students
 
-Kenneth Locey (PhD student; 2008-2013). Postdoctoral researcher at Indiana University.  
-Xiao Xiao (PhD student; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
-Elita Baldridge (PhD Student; 2010-present).  
-Kristina Riemer (PhD Student; 2013-present)
-
 ### Undergraduate Researchers
 
-Ben Morris (2010-2012; NSF REU Summer 2011, Awarded an NSF Graduate Research Fellowship). Data Platform Engineer at Machine Zone, Inc.  
-Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
-Mikaelle Giffen (2008-2009)
+I have mentored 10 undergraduate students (6 women, 4 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
 
 ### Graduate Student Committees
-Philippe Desjardins-Proulx (PhD), Erica Christensen (PhD), Martin Schilling (PhD), Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013, Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni (PhD, 2013, Utah State University), Chris Feldman (PhD, 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
+
+Ryan Stephens (PhD, University of New Hampshire)
+
+
+Grants and Contracts
+--------------------
+
+National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J. A. Crawford (PI), D. J. Hocking (Co-PI), J. Milanovich (Co-PI), W. E. Peterman (Co-PI). 2012. $14,932
+ 
+NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K. J. Babbitt (PI), D. J. Hocking (Co-PI). 2011. $42,000
+
+University of Missouri. TWA Scholarship. 2006. $7,000
+
+
+Professional and Community Service
+----------------------------------
+
+### University Service
+
+DEC Committee, Biology Department, Frostburg State University. 2016-2017.
+
+### General
+
+* Cofounded the New Hampshire R Users Group [http://www.nhusers.wordpress.com](http://www.nhusers.wordpress.com), including organizing weekly meetings and securing corporate sponsorship. 2013 – 2014.
+* Organizer. NRESS Seminar. University of New Hampshire. Helped organize the spring seminar series for the Natural Resource and Earth System Science program. 2008.
+* Vice President. Biology Graduate Student Association. University of Missouri. 2005-2006.
+* Webmaster. Land-use Effects on Amphibian Populations (LEAP) Collaboration (www.leap.missouri.edu). 2004-2005.
+* Webmaster. Missouri Chapter of the Society for Conservation Biology. 2005-2006.
+* Co-Chair. Outreach Committee for the Missouri Chapter of the Society for Conservation Biology. 2005-2006.
+
+### Outreach
+
+* Taxonomic Expert. Gulf of Maine Research Institute, Vital Signs citizen science program. 2014 – present.
+* Guest Speaker. Great Smoky Mountain Institute at Tremont, GSMNP, NC. July 2012. Talked to science camp group about salamander biodiversity in Great Smoky Mountains National Park.
+* Guest Speaker. Traip Academy, Kittery, ME. May 2011. Discussed college programs in math and science and career paths in ecology and conservation with high school seniors.
+* Guest Speaker. Dover High School, Dover, NH. February 2008. Discussed the writing process with sophomore English classes.
+* Guest Speaker. Hickman Highschool Biology Club. October 2006. Amphibians, reptiles, and college planning for aspiring biologists.
+* BioBlitz Organizer and Team Leader. Columbia, MO. 2005-2006, http://BioBlitz.missouri.edu.
+
+### Manuscript Reviewing
+
+AMBIO, Bioscience, Conservation Biology, Copeia, Ecosphere, Forest Ecology and Management, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
+
 
 Presentations
 -------------
 
-Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
-White, E.P. 2015. Facilitating data-intensive research in ecology. 100th Annual
-Meeting of the Ecological Society of America. Baltimore,
-MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1507450), *Invited*]
+## Oral Presentations
 
-White, E.P. 2015. Comparing snapshot methods, time series analysis, and simple
-bench marks for forecasting biodiversity. 100th Annual Meeting of the Ecological
-Society of America. Baltimore,
-MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1506792), *Invited*]
+Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). March 23, 2016.
 
-Hurlbert, A.H., E.P. White, and B. Evans. 2015. Core versus transient species as
-a general framework for thinking about ecological assemblages. 100th Annual
-Meeting of the Ecological Society of America. Baltimore,
-MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1512507)]
+Hocking, D. J., B. Letcher, K. Nislow, Y. Kanno, M. Ratnaswamy, and J. Wofford. Using single-pass surveys to assess spatial and temporal patterns in Brook Trout abundance: Correcting for imperfect detection. American Fisheries Society Annual Meeting, Quebec City, Canada. August 17-21, 2014.
 
-Baldridge, E. and E.P. White. 2015. Ecologist in silico: Facilitating access for
-chronically ill/disabled ecologists. 100th Annual Meeting of the Ecological
-Society of America. Baltimore,
-MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1502697)]
+Hocking, D. J. The effects of land-use and climate change on amphibian populations. Invited Seminar. Environmental Science Seminar Series. University of New Hampshire, Durham, NH. October 11, 2013.
 
-Norman, K.**, and E.P. White. 2015. Biodiversity prioritization: A comparison of
-data types. 100th Annual Meeting of the Ecological Society of
-America. Baltimore, MD.
+Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. Ecological Society of America Annual Meeting, Portland, OR. August 4-10, 2012.
 
-White, E.P., X. Xiao*, K.M. Thibault, D.J. McGlinn<sup>+</sup>,
-J.A. Kitzes. 2013. Evaluating a general theory of macroecology using big
-data. 98th Annual Meeting of the Ecological Society of America. Minneapolis,
-MN. [[Slides](http://dx.doi.org/10.6084/m9.figshare.766196)]
+Hocking, D. J. A great leap backwards: amphibians in crisis. 2009 Department of Natural Resources and the Environment Seminar Series, UNH, Durham, NH [*invited*].
 
-White, E.P. 2013. Big data in ecology. 98th Annual Meeting of the Ecological
-Society of America. Minneapolis,
-MN. [[Slides](http://figshare.com/articles/Big_Data_in_Ecology/768444)],
-[[Full Talk w/Slides & Script](http://jabberwocky.weecology.org/2013/08/12/ignite-talk-big-data-in-ecology/),
-*Invited*]
+Hocking, D. J. The role of salamanders in ecosystems. 2008 NRESS Student Seminar Series, University of New Hampshire.
 
-Locey, K.J.*, and E.P. White. 2013. How species richness and total abundance
-constrain the distribution of abundance. 98th Annual Meeting of the Ecological
-Society of America. Minneapolis, MN. [[Slides](http://figshare.com/articles/ESA_2013_poster/768460)]
+Hocking, D. J., C. A., Conner, E. D. McDonald**, B. Scheffers, and R. D. Semlitsch. Initial Effects of Experimental Forest Management on a Terrestrial, Woodland Salamander in Missouri. 2008 Joint Meetings of Ichthyologists and Herpetologists, Montreal, Canada.
 
-McGlinn, D.J.<sup>+</sup> and E.P White. 2013. Connecting the environment to a
-maximum entropy prediction of the species-abundance distribution across
-continents and taxa. 98th Annual Meeting of the Ecological Society of
-America. Minneapolis, MN. [[Slides](http://figshare.com/articles/Modeling_Geographic_Patterns_in_the_Species_Abundance_Distribution/768505)]
+Hocking, D. J. and R. D. Semlitsch. Breeding Site Selection and Tadpole Performance of the Gray Treefrog (Hyla versicolor) in Response to a Forest Gradient. 2007 Ecological Society of America Annual Meeting, San Jose, CA.
 
-White, E.P., X. Xiao\*, D.J. McGlinn<sup>+</sup>, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
+Hocking, D. J.  Gray treefrog breeding site selection and offspring performance in response to forest management. 2007 Division of Biological Sciences Ecology Seminar Series, University of Missouri. 
 
-Wolf, P.G., K.E. Mock, E.P. White, H.S. Rai, and B.A. Richardson. 2013. Genotyping-by-Sequencing (GBS) for Population Genomics of Aspen (Populus tremuloides). Plant & Animal Genome XXI. San Diego, CA.
+Hocking, D. J.  The effects of forest management on larval treefrogs: implications for populations. 2006 Division of Biological Sciences Ecology Seminar Series, University of Missouri. 
 
-Xiao, X.* and E.P. White. 2012. The adequate currency for community-level energetic constraint based on Maximum Entropy. 97th Annual Meeting of the Ecological Society of America. Austin, TX.
+Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for oviposition by gray treefrogs (Hyla versicolor) in four managed forest habitats. 2005 Midwest Fish and Wildlife Conference.  
 
-McGlinn, D.<sup>+</sup>, X. Xiao*, J. Kitzes, and E.P. White. 2012. Testing the Spatial Predictions of the Maximum Entropy Theory of Ecology. Gordon Research Conference on the Metabolic Basis of Ecology.
+## Poster Presentations
 
-Xiao, X.* and E.P. White. 2012. Testing the individual- and species- level energy distributions of the Maximum Entropy Theory of Ecology (METE). Gordon Research Conference on the Metabolic Basis of Ecology.
+Hocking, D. J., K. J. Babbitt, M. Yamasaki. Improved Estimation of Forestry Edge Effects Accounting for Detection Probability. 2013. ESA Annual Meeting. Minneapolis, MN. [http://dx.doi.org/10.6084/m9.figshare.776927](http://dx.doi.org/10.6084/m9.figshare.776927)
 
-E.P. White, B. Morris\*\*, S.K. Morgan Ernest, K.M. Thibault†, A.H. Hurlbert, A.J. Kerkhoff, Z.T. Brym\*. 95th Annual Meeting of the Ecological Society of America. Austin, TX.
+Sargent, P. J.**, D. J. Hocking, K. J. Babbitt. Relating Hematological Patterns in Red-backed Salamanders to Stress in Different Habitats and Densities. 2013. Undergraduate Research Conference, UNH, Durham, NH.
 
-J.R. Coyle, A.H. Hurlbert, E.P. White. 95th Annual Meeting of the Ecological Society of America. Austin, TX.
+Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. World Congress of Herpetology Meeting. Vancouver, BC, Canada. August 8-13, 2012.
 
-K.M. Thibault<sup>+</sup>, E.P. White, X. Xiao\*.  95th Annual Meeting of the Ecological Society of America. Austin, TX.
+Marquis, A. J.**, D. J. Hocking, K. J. Babbitt. Landscape and local-scale effects on stream salamanders in southeastern New Hampshire. 2012. Undergraduate Research Conference, UNH, Durham, NH.
 
-S.R. Supp, X. Xiao\*, S.K.M. Ernest, E.P. White. 95th Annual Meeting of the Ecological Society of America. Austin, TX.
+Hocking, D. J., and K. J. Babbitt. The contribution of woodland salamanders in ecosystem functions. 2010 Joint Meetings of Ichthyologists and Herpetologists, Providence, RI.
 
-A.H. Hurlbert, Thibault, K.M., E.P. White, and S.K.M. Ernest. 2010. 94th Annual Meeting of the Ecological Society of America. Pittsburgh, PA.
+Willey, E.**, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentation on the abundance and body condition of the red backed salamander (Plethodon cinereus). 2010 Undergraduate Research Conference, UNH, Durham, NH.
 
-Xiao, X., E.P. White, M. Hooten, and S. Durham. 2010. Gordon Research Conference - Metabolic Basis of Ecology and Evolution, Biddeford, Maine.
+Hocking, D. J. Contributions of Salamanders to Ecosystem Functions and Services. 2009 Graduate Research Conference, UNH, Durham, NH.
 
-A.H. Hurlbert, Thibault, K.M., E.P. White, and S.K.M. Ernest. 2010. Gordon Research Conference – Metabolic Basis of Ecology and Evolution, Biddeford, Maine.
+Hocking, D. J., S. A. Callaghan, K. J. Babbitt, M. Yamasaki. The Effects of Natural and Anthropogenic Disturbance on Red-backed Salamanders in Northern Hardwood Forests. 2008 Joint Meetings of Ichthyologists and Herpetologists, Montreal, Canada.
 
-Thibault, K.M., E.P. White, A.H. Hurlbert, and S.K.M. Ernest. 2009. 93rd Annual Meeting of the Ecological Society of America. Albuquerque, NM.
+Hocking, D. J., S. A. Callaghan, K. J. Babbitt, M. Yamasaki. The Effects of Natural and Anthropogenic Disturbance on Red-backed Salamanders in Northern Hardwood Forests. 2008 Northeast Partners for Amphibian and Reptile Meeting, Powdermill, PA.
 
-White, E.P., B.J. Enquist, J.C. Stegen, S.C. Stark, and C.A. Price. 2008. 92nd Annual Meeting of the Ecological Society of America. Milwaukee, WI.
+Hocking, D. J., T. A. G. Rittenhouse, B. B. Rothermel, J. R. Johnson, C. A. Conner, E. B. Harper, and R. D. Semlitsch. Breeding and recruitment phenology of amphibians in Missouri oak-hickory forests. 2007 Joint Meeting of Ichthyologists and Herpetologists, St. Louis, MO.
 
-Price, C.A., E.P. White, J.S. Weitz, and K. Ogle. 92nd Annual Meeting of the Ecological Society of America. Milwaukee, WI.
+Hocking, D. J. and R. D. Semlitsch. Effects of forest management on larval gray treefrogs (Hyla versicolor). 2007 Life Sciences Week, University of Missouri.
 
-Ernest, S.K.M, E.P. White, and J.H. Brown. 2008. 92nd Annual Meeting of the Ecological Society of America. Milwaukee, WI.
+Hocking, D. J. and R. D. Semlitsch.  Effects of forest management on larval gray treefrogs.  2006 Midwest and Northeast meetings of Partners for Amphibian and Reptile Conservation. 
 
-White, E.P., B.J. Enquist, J.C. Stegen, S.C. Stark, and C.A. Price. 2008. Gordon Research Conference - Metabolic Basis of Ecology, Biddeford, Maine.
+Hocking, D. J. and R. D. Semlitsch.  Oviposition site selection by gray treefrogs (Hyla versicolor) in four experimental forest habitats.  2006 University of Missouri Life Sciences Week. 
 
-Ernest, S.K.M, E.P. White, and J.H. Brown. 2008. Gordon Research Conference – Metabolic Basis of Ecology, Biddeford, Maine.
+Barlows, A.**, D. J. Hocking, and R. D. Semlitsch.  Effects of shade and predation on survival and growth of larval gray treefrogs (Hyla versicolor) in Missouri.  2006 University of Missouri-Columbia Undergraduate Research and Creative Achievements Forum.  
 
-White, E.P., A.H. Hurlbert, and S.K.M. Ernest. 2007. Macroecology of avian size distributions. 92nd Annual Meeting of the Ecological Society of America. San Jose, CA.
+Mahan, R. D.**, B. B. Rothermel, D. J. Hocking, J. W. Gibbons, and R. D. Semlitsch. Effects of forest management practices on treefrog oviposition site choice. 2005 Summer Undergraduate Research and Creative Achievements Forum, University of Missouri, Columbia, MO.
 
-Ernest, S.K.M, J.H. Brown, J.R. Goheen, K.M. Thibault, and E.P. White. 2007. 87th Annual Meeting of the American Society of Mammalogists. Albuquerque, NM.
+Mahan, R. D.**, B. B. Rothermel, D. J. Hocking, J. W. Gibbons, and R. D. Semlitsch. Effects of forest management practices on treefrog oviposition site choice. 2005 Research Experiences for Undergraduates Program, University of Georgia’s Savannah River Ecology Laboratory.
 
-White, E.P., B.J. Enquist, S.K.M. Ernest, and J.L. Green. 2006. 91st Annual Meeting of the Ecological Society of America. Memphis, TN.
+Wason, C., M. Giguere, M. Driscoll, L. Seydewitz, D. J. Hocking, E. Falton, J. Baker, M. Novak, S. Bradt, J. Campbell, R. Blakemore, and A. Baker.  Project Lake Watch: On Golden Pond for lake truthing Landsat and MODIS. 2003 Annual Aquatic Sciences Meeting of the American Society for Limnology and Oceanography.
 
-Ernest, S.K.M, J.H. Brown, J.R. Goheen, K.M. Thibault, and E.P. White. 2006. 91st Annual Meeting of the Ecological Society of America. Memphis, TN.
+Seydewitz, L., M. Driscoll, C. Wason, M. Giguere, D. J. Hocking, E. Falton, J. Baker, M. Novak, S. Bradt, A. Baker, R. Blakemore, and J. Campbell.  Project Lake Watch: Monitoring New Hampshire lakes from canoes and satellites. 2003 Annual Aquatic Sciences Meeting of the American Society for Limnology and Oceanography. 
 
-White, E.P., B.J. Enquist, S.K.M. Ernest, and J.L. Green. 2006. Gordon Research Conference - The Metabolic Basis of Ecology and Evolution. Lewiston, Maine.
-
-Ernest, S.K.M, J.H. Brown, J.R. Goheen, K.M. Thibault, and E.P. White. 2006. Gordon Research Conference - The Metabolic Basis of Ecology and Evolution. Lewiston, Maine.
-
-White, E.P., and M.A. Gilchrist. 2005. 90th Annual Meeting of the Ecological Society of America. Montreal, Canada.
-
-Hurlbert, A.H., and E.P. White. 2005. 90th Annual Meeting of the Ecological Society of America. Montreal, Canada.
-
-Goheen, J.R., E.P. White, S.K.M. Ernest, J.H. Brown, J.F. Merritt, P.L. Meserve, N.A. Slade. 2005. International Biogeography Society Meeting.
-
-Hurlbert, A.H., and E.P. White. 2005. International Biogeography Society Meeting.
-
-White, E.P. 2004. Santa Fe Institute Scaling Biodiversity Workshop. Prague, Czech Republic.
-
-Hurlbert, A.H., and E.P. White. 2004. Southwestern Association of Biologists Annual Meeting. Portal, AZ.
-
-Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Geological Society of America’s Annual Meeting. Denver, CO.
-
-White, E.P, S.K.M. Ernest, and K.M. Thibault. 2004. 89th Annual Meeting of the Ecological Society of America. Portland, OR.
-
-Thibault, K.M., E.P. White, and S.K.M. Ernest. 2004. 89th Annual Meeting of the Ecological Society of America. Portland, OR.
-
-White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Gordon Research Conference – Metabolic basis of ecology. Bates College, ME.
-
-Lyons, S.K., F.A. Smith, E.P. White, and J.H. Brown. 2004. American Society of Mammalogists Annual Meeting. Humbolt State University, CA.
-
-White, E. P. 2003. Southwestern Association of Biologists Annual Meeting, Portal, AZ.
-
-White, E. P. 2003. LTER All Scientists Meeting, Seattle, WA.
-
-White, E. P. 2003. 88th Annual Meeting of the Ecological Society of America, Savannah, GA.
-
-Brown, J. H., and E. P. White. 2003. Cary Conference, Millbrook, NY.
-
-White, E. P. 2003. International Society of Biogeography Meeting, Mesquite, NV.
-
-White, E. P. 2002. Southwestern Association of Biologists Annual Meeting, Portal, AZ.
-
-Meehan, T. D., and E. P. White. 2002. Southwestern Association of Biologists Annual Meeting, Portal, AZ.
-
-White, E. P. 2002. 87th Annual Meeting of the Ecological Society of America, Tucson, AZ.
-
-White, E. P. 2002. British Ecological Society's Macroecology Conference, Birmingham, England.
-
-White, E. P. 1998. Guild of Rocky Mountain Population Biologists Annual Meeting, Nederland, CO.
-
-White, E. P. 1997. North American Symposium on Bat Research, University of Arizona, Tucson, AZ.
+Falton, E., D. J. Hocking, C. Wason, J. Baker, M. Giguere, L. Seydewitz, M. Driscoll, M. Novak, S. Bradt, J. Campbell, R. Blakemore, and A. Baker.  Project Lake Watch: Looking at lakes with microscopes and satellites. Presented at the 2003 Annual Aquatic Sciences Meeting of the American Society for Limnology and Oceanography. 
