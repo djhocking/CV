@@ -7,6 +7,7 @@ set -o pipefail
 make
 
 # commit and push to github
+git add --all
 git commit -m "auto commit build CV"
 git push origin master
 
