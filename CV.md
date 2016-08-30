@@ -2,7 +2,6 @@
 
 Daniel J. Hocking
 ==============================
-test
 
 Contact
 -------
