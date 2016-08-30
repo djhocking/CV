@@ -59,7 +59,7 @@ Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislo
 
 Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Review*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology.
 
-Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Review*. Synchrony in small mammal community dynamics across a forested landscape. Ecography.
+Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography.
 
 Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
