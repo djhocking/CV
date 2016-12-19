@@ -57,9 +57,9 @@ Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of d
 
 Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Review*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
 
-Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Review*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology.
+Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
-Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography.
+Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
 
 Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
@@ -161,6 +161,8 @@ Professional and Community Service
 ### University Service
 
 DEC Committee, Biology Department, Frostburg State University. 2016-2017.
+
+R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-present. [https://frostburgrusers.wordpress.com/](https://frostburgrusers.wordpress.com/)
 
 ### General
 
