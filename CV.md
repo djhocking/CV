@@ -111,7 +111,7 @@ Teaching
 
 ### Certifications
 
-* Cognate in College Teaching, Center for Excellence in Teaching & * Learning, University of New Hampshire
+* Cognate in College Teaching, Center for Excellence in Teaching & Learning, University of New Hampshire
 * Software Carpentry Instructor, Teaching Lab Skills for Scientific Computing [http://software-carpentry.org/](http://software-carpentry.org/) 
 
 ### Teaching Assistant
