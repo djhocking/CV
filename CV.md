@@ -180,7 +180,7 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 * Guest Speaker. Traip Academy, Kittery, ME. May 2011. Discussed college programs in math and science and career paths in ecology and conservation with high school seniors.
 * Guest Speaker. Dover High School, Dover, NH. February 2008. Discussed the writing process with sophomore English classes.
 * Guest Speaker. Hickman Highschool Biology Club. October 2006. Amphibians, reptiles, and college planning for aspiring biologists.
-* BioBlitz Organizer and Team Leader. Columbia, MO. 2005-2006, http://BioBlitz.missouri.edu.
+* BioBlitz Organizer and Team Leader. Columbia, MO. 2005-2006, (http://BioBlitz.missouri.edu).
 
 ### Manuscript Reviewing
 
