@@ -147,12 +147,26 @@ Ryan Stephens (PhD, University of New Hampshire)
 
 Grants and Contracts
 --------------------
+**Awarded**
+Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J. A. Crawford (PI), D. J. Hocking (Co-PI), J. Milanovich (Co-PI), W. E. Peterman (Co-PI). 2012. $14,932
  
 NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K. J. Babbitt (PI), D. J. Hocking (Co-PI). 2011. $42,000
 
 University of Missouri. TWA Scholarship. 2006. $7,000
+
+**Submitted**
+US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
+
+Great Smoky Mountains Conservation Association. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
+
+Appalachian Highlands Science Learning Center Research Grants. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2017. $2,000
+
+Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
+
+
+
 
 
 Professional and Community Service
@@ -184,7 +198,7 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 
 ### Manuscript Reviewing
 
-AMBIO, Bioscience, Conservation Biology, Copeia, Ecosphere, Forest Ecology and Management, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
+AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecosphere, Forest Ecology and Management, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
 
 
 Presentations
