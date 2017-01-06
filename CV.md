@@ -1,18 +1,16 @@
 ## *Curriculum Vitae*
 
-Daniel J. Hocking
-==============================
+# Daniel J. Hocking
 
-Contact
--------
+## Contact
+
 Email: [djhocking@frostburg.edu](mailto:djhocking@frostburg.edu)  
 Twitter: @[djhocking](https://twitter.com/djhocking)  
 Website: [http://hockinglab.weebly.com/](http://hockinglab.weebly.com/)  
 Mail: Department of Biology, Frostburg State University, 309 Compton Science Center, 101 Braddock Road, Frostburg, MD 21532-2303; 
 Phone: 301-687-4343
 
-Education
----------
+## Education
 
 2012 \hspace{4mm} PhD Natural Resources & Environmental Science, University of New Hampshire  
 
@@ -21,8 +19,7 @@ Education
 2003 \hspace{4mm} BS Environmental Science (*magna cum laude*), University of New Hampshire 
 
 
-Research and Professional Experience
-------------------------------------
+## Research and Professional Experience
 
 2016 - present \hspace{10mm} Assistant Professor, Dept. of Biology, Frostburg
 State University, Frostburg, MD
@@ -33,27 +30,17 @@ State University, Frostburg, MD
 
 2012 – 2013 \hspace{10mm} Postdoctoral Research Associate, University of New Hampshire, Durham, NH
 
-Fellowships and Awards
-----------------------
-
-* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land use impacts on brook trout population persistence. 2014-2016.
-* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011.
-* University of New Hampshire. Summer T.A. Fellowship. 2008, 2009.
-* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008.
-* Life Science Fellowship, University of Missouri. 2004-2006.
-
-Publications
-------------
+## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 407, h-index = 9)  
+(citations = 448, h-index = 9)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ### Journal Articles
 
-Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](http://)]
+Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
 Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Review*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
 
@@ -98,8 +85,7 @@ Semlitsch, R. D., C. A. Conner, D. J. Hocking, T. A. G. Rittenhouse, and E. B. H
 Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
 
-Teaching
---------
+## Teaching
 
 ### Courses
 
@@ -131,10 +117,7 @@ Teaching
 * 2003-2004   Senior Environmental Intern, National Audubon Society MD-DC, Bozman, MD
 * 2001-2002   Naturalist/Interpreter, Seacoast Science Center, Rye, NH
 
-Research Mentoring
-------------------
-
-### Graduate Students
+## Research Mentoring
 
 ### Undergraduate Researchers
 
@@ -145,9 +128,10 @@ I have mentored 10 undergraduate students (6 women, 4 men) on independent resear
 Ryan Stephens (PhD, University of New Hampshire)
 
 
-Grants and Contracts
---------------------
-**Awarded**
+## Grants and Contracts
+
+### Awarded
+
 Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J. A. Crawford (PI), D. J. Hocking (Co-PI), J. Milanovich (Co-PI), W. E. Peterman (Co-PI). 2012. $14,932
@@ -156,7 +140,8 @@ NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed sal
 
 University of Missouri. TWA Scholarship. 2006. $7,000
 
-**Submitted**
+## Submitted
+
 US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
 
 Great Smoky Mountains Conservation Association. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
@@ -165,12 +150,15 @@ Appalachian Highlands Science Learning Center Research Grants. Short-term Effect
 
 Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
 
+## Fellowships and Awards
 
+* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land use impacts on brook trout population persistence. 2014-2016.
+* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011.
+* University of New Hampshire. Summer T.A. Fellowship. 2008, 2009.
+* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008.
+* Life Science Fellowship, University of Missouri. 2004-2006.
 
-
-
-Professional and Community Service
-----------------------------------
+## Professional and Community Service
 
 ### University Service
 
@@ -201,12 +189,11 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecosphere, Forest Ecology and Management, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
 
 
-Presentations
--------------
+## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
-## Oral Presentations
+### Oral Presentations
 
 Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). March 23, 2016.
 
@@ -230,7 +217,7 @@ Hocking, D. J.  The effects of forest management on larval treefrogs: implicatio
 
 Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for oviposition by gray treefrogs (Hyla versicolor) in four managed forest habitats. 2005 Midwest Fish and Wildlife Conference.  
 
-## Poster Presentations
+### Poster Presentations
 
 Hocking, D. J., K. J. Babbitt, M. Yamasaki. Improved Estimation of Forestry Edge Effects Accounting for Detection Probability. 2013. ESA Annual Meeting. Minneapolis, MN. [http://dx.doi.org/10.6084/m9.figshare.776927](http://dx.doi.org/10.6084/m9.figshare.776927)
 
