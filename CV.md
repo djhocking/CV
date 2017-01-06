@@ -21,14 +21,15 @@ Phone: 301-687-4343
 
 ## Research and Professional Experience
 
-2016 - present \hspace{10mm} Assistant Professor, Dept. of Biology, Frostburg
+2016 - present \hspace{4mm} Assistant Professor, Dept. of Biology, Frostburg
 State University, Frostburg, MD
 
-2014 – 2016 \hspace{10mm} USGS Mendenhall Postdoctoral Fellow, Conte Anadromous Fish Research Laboratory, Turners Falls, MA
+2014 – 2016 \hspace{4mm} USGS Mendenhall Postdoctoral Fellow, Conte Anadromous Fish Research Laboratory, Turners Falls, MA
 
-2014 – 2016 \hspace{10mm} Postdoctoral Fellow, DOI Northeast Climate Science Center, University of Massachusetts, Amherst, MA
+2014 – 2016 \hspace{4mm} Postdoctoral Fellow, DOI Northeast Climate Science Center, University of Massachusetts, Amherst, MA
 
-2012 – 2013 \hspace{10mm} Postdoctoral Research Associate, University of New Hampshire, Durham, NH
+2012 – 2013 \hspace{4mm} Postdoctoral Research Associate, University of New Hampshire, Durham, NH
+
 
 ## Publications
 
