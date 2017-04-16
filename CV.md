@@ -33,7 +33,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 501, h-index = 10, i10-index = 11)  
+(citations = 501, *h*-index = 10, *i*10-index = 11)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
