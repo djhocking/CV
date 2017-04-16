@@ -18,7 +18,6 @@ Phone: 301-687-4343
 
 2003 \hspace{4mm} BS Environmental Science (*magna cum laude*), University of New Hampshire 
 
-
 ## Research and Professional Experience
 
 2016 - present \hspace{3mm} Assistant Professor, Dept. of Biology, Frostburg
@@ -40,6 +39,8 @@ State University, Frostburg, MD
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ### Journal Articles
+
+Hocking, D.J., J. Thorson, and B.H. Letcher. *In prep*. A geostatistical state-space model of animal abundance for stream networks.
 
 Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
@@ -153,17 +154,17 @@ NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed sal
 
 University of Missouri. TWA Scholarship. 2006. $7,000
 
-## Submitted
+### Submitted
 
 National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
 
-## Not Awarded
+### Not Awarded
 
 Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
 
 US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
 
-## Fellowships and Awards
+### Fellowships and Awards
 
 * USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land use impacts on brook trout population persistence. 2014-2016.
 * University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011.
