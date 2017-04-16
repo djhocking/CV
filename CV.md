@@ -34,7 +34,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 448, h-index = 9)  
+(citations = 501, h-index = 10, i10-index = 11)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -43,7 +43,9 @@ State University, Frostburg, MD
 
 Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Review*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
+Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Review*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots.
+
+Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
 
 Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
@@ -120,36 +122,46 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 
 ## Research Mentoring
 
-### Undergraduate Researchers
+### Graduate Students
 
-I have mentored 10 undergraduate students (6 women, 4 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
+* Natalie Haydt, Woodland salamander spatial ecology. 2017 - present
+* Jacey Brooks, Woodland salamander spatial ecology. 2017 - present 
 
 ### Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire)
+Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University)
 
+### Undergraduate Researchers
+
+I have mentored 10 undergraduate students (6 women, 4 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
 
 ## Grants and Contracts
 
 ### Awarded
 
+Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fellowship. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
+
+Appalachian Highlands Science Learning Center Research Grants. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2017. $1,124
+
+Frostburg State University. Faculty Development Undergraduate Research Grant. D.J. Hocking. 2017. $3,750.
+
 Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
-National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J. A. Crawford (PI), D. J. Hocking (Co-PI), J. Milanovich (Co-PI), W. E. Peterman (Co-PI). 2012. $14,932
+National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2012. $14,932
  
-NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K. J. Babbitt (PI), D. J. Hocking (Co-PI). 2011. $42,000
+NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
 
 University of Missouri. TWA Scholarship. 2006. $7,000
 
 ## Submitted
 
-US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
+National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
 
-Great Smoky Mountains Conservation Association. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
-
-Appalachian Highlands Science Learning Center Research Grants. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2017. $2,000
+## Not Awarded
 
 Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
+
+US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
 
 ## Fellowships and Awards
 
@@ -163,7 +175,11 @@ Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant.
 
 ### University Service
 
-DEC Committee, Biology Department, Frostburg State University. 2016-2017.
+Sustainability Studies Steering Committee, Frostburg State University. 2016 - present
+
+Campus Tree Committee, Frostburg State University. 2016-present
+
+Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
 
 R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-present. [https://frostburgrusers.wordpress.com/](https://frostburgrusers.wordpress.com/)
 
@@ -188,7 +204,6 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 ### Manuscript Reviewing
 
 AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecosphere, Forest Ecology and Management, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
-
 
 ## Presentations
 
