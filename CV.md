@@ -46,7 +46,7 @@ Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of d
 
 Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Review*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots.
 
-Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Environmental Science & Technology.
+Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts.
 
 Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
