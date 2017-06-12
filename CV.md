@@ -33,7 +33,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 501, *h*-index = 10, *i*10-index = 11)  
+(citations = 521, *h*-index = 10, *i*10-index = 12)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -46,11 +46,13 @@ Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of d
 
 Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Review*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots.
 
-Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts.
+Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 1-13
 
-Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammals in experimental forestry plots in Missouri, USA. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
+Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
 Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
+
+Letcher, B.H., D.J. Hocking, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
 
 Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
@@ -186,6 +188,7 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 
 ### General
 
+* Organizing Committee. Northeastern Stream Temperature Monitoring and Analysis Meeting. US Fish and Wildlife Service. Region 5 Regional Office. Hadley, MA. 21-22 February 2017.
 * Cofounded the New Hampshire R Users Group [http://www.nhusers.wordpress.com](http://www.nhusers.wordpress.com), including organizing weekly meetings and securing corporate sponsorship. 2013 – 2014.
 * Organizer. NRESS Seminar. University of New Hampshire. Helped organize the spring seminar series for the Natural Resource and Earth System Science program. 2008.
 * Vice President. Biology Graduate Student Association. University of Missouri. 2005-2006.
@@ -212,7 +215,9 @@ AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecosph
 
 ### Oral Presentations
 
-Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). March 23, 2016.
+Hocking, D.J. Models and Visualization of Regional Stream Temperature and Trout Populations. University of Maryland Center for Environmental Science. Appalachian Laboratory. 11 May 2017.
+
+Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). 23 March 2016.
 
 Hocking, D. J., B. Letcher, K. Nislow, Y. Kanno, M. Ratnaswamy, and J. Wofford. Using single-pass surveys to assess spatial and temporal patterns in Brook Trout abundance: Correcting for imperfect detection. American Fisheries Society Annual Meeting, Quebec City, Canada. August 17-21, 2014.
 
