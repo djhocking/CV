@@ -14,6 +14,7 @@ git push origin master
 
 # Copy index.html to gh-pages branch
 git checkout gh-pages
+git pull origin gh-pages
 git checkout master index.html
 git add index.html
 git commit -m "auto commit cv html build for webpage"
