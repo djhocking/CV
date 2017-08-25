@@ -16,7 +16,7 @@ Phone: 301-687-4343
 
 2007 \hspace{4mm} MA Biological Sciences, University of Missouri
 
-2003 \hspace{4mm} BS Environmental Science (*magna cum laude*), University of New Hampshire 
+2003 \hspace{4mm} BS Environmental Science, University of New Hampshire 
 
 ## Research and Professional Experience
 
@@ -33,26 +33,26 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 521, *h*-index = 10, *i*10-index = 12)  
+(citations = 545, *h*-index = 10, *i*10-index = 12)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ### Journal Articles
 
-Hocking, D.J., J. Thorson, and B.H. Letcher. *In prep*. A geostatistical state-space model of animal abundance for stream networks.
+Hocking, D.J., J. Thorson, and B.H. Letcher. *In Prep*. A geostatistical state-space model of animal abundance for stream networks.
 
-Hocking, D.J., K. O'Neil, and B.H. Letcher. *In prep*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
+Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Review*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots.
-
-Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. *In Press*. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 1-13
-
-Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. *In Press*. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
+Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Press*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
 Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
 
-Letcher, B.H., D.J. Hocking, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
+Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
+
+Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362 [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
+
+Letcher, B.H., D.J. Hocking, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. 2016. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
 
 Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
@@ -113,9 +113,9 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 
 ### Tutor
 
-* 2008-2010   Sociology Statistics (Soc 502), University of New Hampshire
 * 2010        Introductory Biology (Bio 412), University of New Hampshire
 * 2010        Freshwater Resources (NR 504), University of New Hampshire
+* 2008-2010   Sociology Statistics (Soc 502), University of New Hampshire
 * 2009        Contemporary Conservation Issues (NR 435), University of New Hampshire
 
 ### Environmental Education
