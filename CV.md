@@ -40,7 +40,7 @@ State University, Frostburg, MD
 
 ### Journal Articles
 
-Hocking, D.J., J. Thorson, and B.H. Letcher. *In Prep*. A geostatistical state-space model of animal abundance for stream networks.
+Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. *In Review*. A geostatistical state-space model of animal abundance for stream networks.
 
 Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
