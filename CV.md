@@ -18,7 +18,7 @@ Phone: 301-687-4343
 
 2003 \hspace{4mm} BS Environmental Science, University of New Hampshire 
 
-## Research and Professional Experience
+## Professional Experience
 
 2016 - present \hspace{3mm} Assistant Professor, Dept. of Biology, Frostburg
 State University, Frostburg, MD
