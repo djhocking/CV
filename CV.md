@@ -33,7 +33,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 545, *h*-index = 10, *i*10-index = 12)  
+(citations = 556, *h*-index = 11, *i*10-index = 13)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -46,7 +46,7 @@ Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of
 
 Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Press*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
-Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. *In Press*. Synchrony in small mammal community dynamics across a forested landscape. Ecography. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
+Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
 
 Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
 
@@ -74,7 +74,7 @@ Hocking, D. J., G. M. Connette, C. A. Conner, B. R. Scheffers, S. E. Pittman, W.
 
 Osbourn, M. S., D. J. Hocking, C. A. Conner, W. E. Peterman, and R. D. Semlitsch. 2011. Use of fluorescent visible implant Alphanumeric tags to individually mark juvenile ambystomatid salamanders. Herpetological Review 42(1):43-46.
 
-Hocking, D. J. 2010. Hyla squirella (squirrel treefrog) reproduction. Herpetological Review 41(1):64.
+Hocking, D. J. 2010. Hyla squirella (*squirrel treefrog*) reproduction. Herpetological Review 41(1):64.
 
 Semlitsch, R. D., S. M Blomquist, A. J. K. Calhoun, J.W. Gibbons, J. P. Gibbs, G. J. Graeter, E. B. Harper, D. J. Hocking, M. L. Hunter, D. A. Patrick, T. A. G. Rittenhouse, B. B. Rothermel, and B. D. Todd. 2009. Effects of timber management on amphibian populations: understanding mechanisms from forest experiments. Bioscience 59(10):853-862. (Cover Photograph)
 
@@ -132,11 +132,11 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 
 ### Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University)
+Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University)
 
 ### Undergraduate Researchers
 
-I have mentored 10 undergraduate students (6 women, 4 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
+I have mentored 11 undergraduate students (6 women, 5 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
 
 ## Grants and Contracts
 
