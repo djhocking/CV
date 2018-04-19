@@ -132,15 +132,19 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 
 ### Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University)
+Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Green (MS, Frostburg State University); 
 
 ### Undergraduate Researchers
 
-I have mentored 11 undergraduate students (6 women, 5 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
+I have mentored 12 undergraduate students (6 women, 6 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
 
 ## Grants and Contracts
 
 ### Awarded
+
+Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and Natalie Haydt. 2018. $1,500.
+
+Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2018. $2,000
 
 Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fellowship. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
 
@@ -158,9 +162,15 @@ University of Missouri. TWA Scholarship. 2006. $7,000
 
 ### Submitted
 
-National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
+Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
+
+Frostburg State University Foundation Opportunity Grant. The effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $3850.
 
 ### Not Awarded
+
+Frostburg State University. Faculty Development Graduate Research Grant. D.J. Hocking and Jacey Brooks. 2018. $3,750.
+
+National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
 
 Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
 
@@ -178,13 +188,19 @@ US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recru
 
 ### University Service
 
-Sustainability Studies Steering Committee, Frostburg State University. 2016 - present
+Faculty Senate Ad-Hoc Committee on Evaluations II 
 
-Campus Tree Committee, Frostburg State University. 2016-present
+### Department Service
 
-Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
+Wildlife and Fisheries and IBNH Curriculum Committee. 2017-present.
+
+The Wildlife Society - Frostburg State University Chapter, Faculty Advisor. 2017-present.
+
+Campus Tree Committee, Frostburg State University. 2016-present.
 
 R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-present. [https://frostburgrusers.wordpress.com/](https://frostburgrusers.wordpress.com/)
+
+Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
 
 ### General
 
@@ -207,7 +223,7 @@ R Programming and Statistical Users Group, Faculty Advisor, Frostburg State Univ
 
 ### Manuscript Reviewing
 
-AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecosphere, Forest Ecology and Management, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
+AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecology and Evolution, Ecosphere, Forest Ecology and Management, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
 
 ## Presentations
 
@@ -241,6 +257,8 @@ Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for ovipositi
 
 ### Poster Presentations
 
+Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. A geostatistical state-space model of animal abundance for stream networks. 2018. American Association of Geographers Annual Meeting. New Orleans, LA.
+
 Hocking, D. J., K. J. Babbitt, M. Yamasaki. Improved Estimation of Forestry Edge Effects Accounting for Detection Probability. 2013. ESA Annual Meeting. Minneapolis, MN. [http://dx.doi.org/10.6084/m9.figshare.776927](http://dx.doi.org/10.6084/m9.figshare.776927)
 
 Sargent, P. J.**, D. J. Hocking, K. J. Babbitt. Relating Hematological Patterns in Red-backed Salamanders to Stress in Different Habitats and Densities. 2013. Undergraduate Research Conference, UNH, Durham, NH.
@@ -263,9 +281,9 @@ Hocking, D. J., T. A. G. Rittenhouse, B. B. Rothermel, J. R. Johnson, C. A. Conn
 
 Hocking, D. J. and R. D. Semlitsch. Effects of forest management on larval gray treefrogs (Hyla versicolor). 2007 Life Sciences Week, University of Missouri.
 
-Hocking, D. J. and R. D. Semlitsch.  Effects of forest management on larval gray treefrogs.  2006 Midwest and Northeast meetings of Partners for Amphibian and Reptile Conservation. 
+Hocking, D. J. and R. D. Semlitsch.  Effects of forest management on larval gray treefrogs. 2006 Midwest and Northeast meetings of Partners for Amphibian and Reptile Conservation. 
 
-Hocking, D. J. and R. D. Semlitsch.  Oviposition site selection by gray treefrogs (Hyla versicolor) in four experimental forest habitats.  2006 University of Missouri Life Sciences Week. 
+Hocking, D. J. and R. D. Semlitsch.  Oviposition site selection by gray treefrogs (Hyla versicolor) in four experimental forest habitats. 2006 University of Missouri Life Sciences Week. 
 
 Barlows, A.**, D. J. Hocking, and R. D. Semlitsch.  Effects of shade and predation on survival and growth of larval gray treefrogs (Hyla versicolor) in Missouri.  2006 University of Missouri-Columbia Undergraduate Research and Creative Achievements Forum.  
 
