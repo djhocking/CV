@@ -132,7 +132,7 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 
 ### Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Green (MS, Frostburg State University); 
+Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Greene (MS, Frostburg State University); Bethany Liberto (MS, Frostburg State University)
 
 ### Undergraduate Researchers
 
