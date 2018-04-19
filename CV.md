@@ -33,7 +33,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 556, *h*-index = 11, *i*10-index = 13)  
+(citations = 623, *h*-index = 12, *i*10-index = 14)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -144,7 +144,7 @@ I have mentored 12 undergraduate students (6 women, 6 men) on independent resear
 
 Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and Natalie Haydt. 2018. $1,500.
 
-Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2018. $2,000
+Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2018. $2,000
 
 Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fellowship. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
 
@@ -170,7 +170,7 @@ Frostburg State University Foundation Opportunity Grant. The effects of acid min
 
 Frostburg State University. Faculty Development Graduate Research Grant. D.J. Hocking and Jacey Brooks. 2018. $3,750.
 
-National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
+National Geographic Society. Waitt Grant. Short-term Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2017. $15,000
 
 Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. W.E. Peterman, J.A. Crawford, D.J. Hocking, J.R. Milanovich. 2017. $5,000
 
