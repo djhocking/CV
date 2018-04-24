@@ -33,7 +33,7 @@ State University, Frostburg, MD
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 623, *h*-index = 12, *i*10-index = 14)  
+(citations = 624, *h*-index = 12, *i*10-index = 14)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -44,7 +44,7 @@ Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. *In Review*. A geostatis
 
 Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. *In Press*. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
+Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
 Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
 
