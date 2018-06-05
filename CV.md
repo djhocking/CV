@@ -40,9 +40,9 @@ State University, Frostburg, MD
 
 ### Journal Articles
 
-Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. *In Review*. A geostatistical state-space model of animal abundance for stream networks.
-
 Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
+
+Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. *In Press*. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications.
 
 Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
@@ -98,6 +98,7 @@ Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding 
 * General Ecology (BIOL 340), Frostburg State University. 2016 - present. Spring, Fall.
 * Herpetology (BIOL 422/522), Frostburg State University. 2017 - present. Spring.
 * Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - present. Fall.
+* General Zoology Laboratory (BIOL 160). 2016 - present.
 * Vertebrate Biology (NR 655), University of New Hampshire. 2009.
 * Introduction to Conservation Biology (BIO 105), Moberly Area Community College, Columbia, MO. 2007.
 
@@ -140,7 +141,9 @@ I have mentored 12 undergraduate students (6 women, 6 men) on independent resear
 
 ## Grants and Contracts
 
-### Awarded
+### Awarded (Total: $72,135)
+
+Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $1,329. 
 
 Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and Natalie Haydt. 2018. $1,500.
 
@@ -158,13 +161,19 @@ National Geographic Society. Waitt Grant. Climate change effects on elevational 
  
 NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
 
-University of Missouri. TWA Scholarship. 2006. $7,000
-
 ### Submitted
 
 Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
 
-Frostburg State University Foundation Opportunity Grant. The effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $3850.
+### Fellowships and Awards (Total: $352,000)
+
+* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. 2014-2016. $250,000
+* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011. $16,000
+* * University of New Hampshire. Summer T.A. Fellowship. 2009. $3,000
+* University of New Hampshire. Summer T.A. Fellowship. 2008. $3,000
+* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008. $5,000
+* University of Missouri. Trans-World Airlines Scholarship. 2006. $7,000
+* Life Science Fellowship, University of Missouri. 2004-2006. $63,000
 
 ### Not Awarded
 
@@ -176,13 +185,7 @@ Foundation for the Conservation of Salamanders (FCSal) Daiel M. Digiacomo Grant.
 
 US Fish and Wildlife Service. Assisting, Quantifying and Predicting Turtle Recruitment, Demography and Health of Turtle Species in the Kalamazoo River:  Response of the 2010 Enbridge 6B Oil Discharge. J.R. Milanovich, S.C. Serrett, L.A. Harden, D.J. Hocking. 2017. $300,000
 
-### Fellowships and Awards
-
-* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land use impacts on brook trout population persistence. 2014-2016.
-* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011.
-* University of New Hampshire. Summer T.A. Fellowship. 2008, 2009.
-* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008.
-* Life Science Fellowship, University of Missouri. 2004-2006.
+Department of Defense Strategic Environmental Research and Development Program (SERDP). Incorporating Climate-Induced Phenology Changes into Management Decisions for Pond-Breeding Amphibians. E. Grant, W. Fields, D.J. Hocking, R. Katz, S.C. Serrett. 2016. $1,768,381
 
 ## Professional and Community Service
 
@@ -192,9 +195,9 @@ Faculty Senate Ad-Hoc Committee on Evaluations II
 
 ### Department Service
 
-Wildlife and Fisheries and IBNH Curriculum Committee. 2017-present.
+Wildlife and Fisheries and Interpretive Biology and Natural History Curriculum Committee. 2017-present.
 
-The Wildlife Society - Frostburg State University Chapter, Faculty Advisor. 2017-present.
+The Wildlife Society, Frostburg State University Chapter. Faculty Advisor. 2017-present.
 
 Campus Tree Committee, Frostburg State University. 2016-present.
 
@@ -215,7 +218,7 @@ Department Evaluation Committee, Biology Department, Frostburg State University.
 ### Outreach
 
 * Taxonomic Expert. Gulf of Maine Research Institute, Vital Signs citizen science program. 2014 – present.
-* Guest Speaker. Great Smoky Mountain Institute at Tremont, GSMNP, NC. July 2012. Talked to science camp group about salamander biodiversity in Great Smoky Mountains National Park.
+* Guest Speaker. Great Smoky Mountain Institute at Tremont, GSMNP, NC. July 2012. Talked to a science camp group about salamander biodiversity in Great Smoky Mountains National Park.
 * Guest Speaker. Traip Academy, Kittery, ME. May 2011. Discussed college programs in math and science and career paths in ecology and conservation with high school seniors.
 * Guest Speaker. Dover High School, Dover, NH. February 2008. Discussed the writing process with sophomore English classes.
 * Guest Speaker. Hickman Highschool Biology Club. October 2006. Amphibians, reptiles, and college planning for aspiring biologists.
@@ -231,17 +234,17 @@ AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecolog
 
 ### Oral Presentations
 
-Hocking, D.J. Models and Visualization of Regional Stream Temperature and Trout Populations. University of Maryland Center for Environmental Science. Appalachian Laboratory. 11 May 2017.
+Hocking, D.J. *Invited Seminar*: Models and Visualization of Regional Stream Temperature and Trout Populations. University of Maryland Center for Environmental Science. Appalachian Laboratory. 11 May 2017.
 
 Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). 23 March 2016.
 
 Hocking, D. J., B. Letcher, K. Nislow, Y. Kanno, M. Ratnaswamy, and J. Wofford. Using single-pass surveys to assess spatial and temporal patterns in Brook Trout abundance: Correcting for imperfect detection. American Fisheries Society Annual Meeting, Quebec City, Canada. August 17-21, 2014.
 
-Hocking, D. J. The effects of land-use and climate change on amphibian populations. Invited Seminar. Environmental Science Seminar Series. University of New Hampshire, Durham, NH. October 11, 2013.
+Hocking, D. J. *Invited Seminar*: The effects of land-use and climate change on amphibian populations. Environmental Science Seminar Series. University of New Hampshire, Durham, NH. October 11, 2013.
 
 Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. Ecological Society of America Annual Meeting, Portland, OR. August 4-10, 2012.
 
-Hocking, D. J. A great leap backwards: amphibians in crisis. 2009 Department of Natural Resources and the Environment Seminar Series, UNH, Durham, NH [*invited*].
+Hocking, D. J. *Invited Seminar*: A great leap backwards: amphibians in crisis. 2009 Department of Natural Resources and the Environment Seminar Series, UNH, Durham, NH.
 
 Hocking, D. J. The role of salamanders in ecosystems. 2008 NRESS Student Seminar Series, University of New Hampshire.
 
