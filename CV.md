@@ -40,55 +40,59 @@ State University, Frostburg, MD
 
 ### Journal Articles
 
-Hocking, D.J., K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
+**Hocking, D.J.**, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. *in prep*. Setting the baseline: Estimates of current elevational distributions for understanding future climate effects.
 
-Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. *In Press*. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications.
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *submitted*. Regional power analysis to detect brook trout population trends.
 
-Earl, J.E., E.B. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
+**Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Stephens, R.B.\*, D.J. Hocking, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
+**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. *In Press*. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications.
 
-Buckman, K., V. Taylor, H. Broadley, D.J. Hocking, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
+Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
-Earl, J.E., E. Harper, D.J. Hocking, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362 [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
+Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
 
-Letcher, B.H., D.J. Hocking, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. 2016. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
+Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
 
-Peterman, W.E., J.A. Crawford, and D.J. Hocking. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
+Earl, J.E., E. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362 [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
-Milanovich, J.R., D.J. Hocking, W.E. Peterman, and J.A. Crawford. 2016. Effective use of trails for assessing terrestrial salamander abundance and detection:  A case study at Great Smoky Mountains National Park. Natural Areas Journal. 35(4):590-598. [http://dx.doi.org/10.3375/043.035.0412](http://dx.doi.org/10.3375/043.035.0412)
+Letcher, B.H., **D.J. Hocking**, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. 2016. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
 
-Anderson, T. L., D. J. Hocking, C. A. Conner, J. E. Earl, E. B. Harper, M. S. Osbourn, W. E. Peterman, T. A. G. Rittenhouse, and R. D. Semlitsch. 2015. Abundance and phenology patterns of two pond-breeding salamanders determine species interactions in natural populations. Oecologia. 177(3):761-73. [http://dx.doi.org/10.1007/s00442-014-3151-z](http://dx.doi.org/10.1007/s00442-014-3151-z)
+Peterman, W.E., J.A. Crawford, and **D.J. Hocking**. 2016. Effects of elevation on plethodontid salamander body size. Copeia. 104(1):202-208. [http://dx.doi.org/10.1643/OT-14-188](http://dx.doi.org/10.1643/OT-14-188)
 
-Drake, D.L, B.H. Ousterhout, C.D. Shulse, D.J. Hocking, W.E. Peterman, T.A. Anderson, K.L. Lohraff, C.A. Conner, E.H. Harper, J.R. Johnson, T.A.G. Rittenhouse, B.B. Rothermel, L.S. Eggert, and R.D. Semlitsch. 2015. Pond-breeding amphibian community composition in Missouri. American Midland Naturalist. 174:180-187.
+Milanovich, J.R., **D.J. Hocking**, W.E. Peterman, and J.A. Crawford. 2016. Effective use of trails for assessing terrestrial salamander abundance and detection:  A case study at Great Smoky Mountains National Park. Natural Areas Journal. 35(4):590-598. [http://dx.doi.org/10.3375/043.035.0412](http://dx.doi.org/10.3375/043.035.0412)
 
-Hocking, D. J. and K. J. Babbitt. 2014. Amphibian Contributions to Ecosystem Services. Herpetological Conservation and Biology. 9(1):1-17. [**OA**]
+Anderson, T.L., **D.J. Hocking**, C.A. Conner, J.E. Earl, E.B. Harper, M.S. Osbourn, W.E. Peterman, T.A.G. Rittenhouse, and R.D. Semlitsch. 2015. Abundance and phenology patterns of two pond-breeding salamanders determine species interactions in natural populations. Oecologia. 177(3):761-73. [http://dx.doi.org/10.1007/s00442-014-3151-z](http://dx.doi.org/10.1007/s00442-014-3151-z)
 
-Hocking, D. J. and K. J. Babbitt. 2014. The role of red-backed salamanders on ecosystem functions. PLoS ONE 9(1):e86854. [http://dx.doi.org/10.1371/journal.pone.0086854](http://dx.doi.org/10.1371/journal.pone.0086854) [**OA**]
+Drake, D.L, B.H. Ousterhout, C.D. Shulse, **D.J. Hocking**, W.E. Peterman, T.A. Anderson, K.L. Lohraff, C.A. Conner, E.H. Harper, J.R. Johnson, T.A.G. Rittenhouse, B.B. Rothermel, L.S. Eggert, and R.D. Semlitsch. 2015. Pond-breeding amphibian community composition in Missouri. American Midland Naturalist. 174:180-187.
 
-Hocking, D. J. 2013. Comparing the influence of ecology journals using citation metrics: making sense of a multitude of metrics. Ideas in Ecology & Evolution. 6(1): 55–65. [http://dx.doi.org/10.4033/iee.v6i1.4949](http://dx.doi.org/10.4033/iee.v6i1.4949) [**OA**]
+**Hocking, D.J.** and K.J. Babbitt. 2014. Amphibian Contributions to Ecosystem Services. Herpetological Conservation and Biology. 9(1):1-17. [**OA**]
 
-Hocking, D. J., S. A. Callaghan, K. J. Babbitt, and M. Yamasaki. 2013. Comparison of silvicultural and natural disturbance effects on terrestrial salamanders in northern hardwood forests. Biological Conservation. 167:194-202. [http://dx.doi.org/10.1016/j.biocon.2013.08.006](http://dx.doi.org/10.1016/j.biocon.2013.08.006)
+**Hocking, D.J.** and K.J. Babbitt. 2014. The role of red-backed salamanders on ecosystem functions. PLoS ONE 9(1):e86854. [http://dx.doi.org/10.1371/journal.pone.0086854](http://dx.doi.org/10.1371/journal.pone.0086854) [**OA**]
 
-Hocking, D. J., G. M. Connette, C. A. Conner, B. R. Scheffers, S. E. Pittman, W. E. Peterman, R. D. Semlitsch. 2013. Effects of experimental forest management on a terrestrial, woodland salamander in Missouri. Forest Ecology and Management. 287:32-39
+**Hocking, D.J.** 2013. Comparing the influence of ecology journals using citation metrics: making sense of a multitude of metrics. Ideas in Ecology & Evolution. 6(1): 55–65. [http://dx.doi.org/10.4033/iee.v6i1.4949](http://dx.doi.org/10.4033/iee.v6i1.4949) [**OA**]
 
-Osbourn, M. S., D. J. Hocking, C. A. Conner, W. E. Peterman, and R. D. Semlitsch. 2011. Use of fluorescent visible implant Alphanumeric tags to individually mark juvenile ambystomatid salamanders. Herpetological Review 42(1):43-46.
+**Hocking, D.J.**, S.A. Callaghan, K.J. Babbitt, and M. Yamasaki. 2013. Comparison of silvicultural and natural disturbance effects on terrestrial salamanders in northern hardwood forests. Biological Conservation. 167:194-202. [http://dx.doi.org/10.1016/j.biocon.2013.08.006](http://dx.doi.org/10.1016/j.biocon.2013.08.006)
 
-Hocking, D. J. 2010. Hyla squirella (*squirrel treefrog*) reproduction. Herpetological Review 41(1):64.
+**Hocking, D.J.**, G.M. Connette, C.A. Conner, B.R. Scheffers, S.E. Pittman, W.E. Peterman, R.D. Semlitsch. 2013. Effects of experimental forest management on a terrestrial, woodland salamander in Missouri. Forest Ecology and Management. 287:32-39
 
-Semlitsch, R. D., S. M Blomquist, A. J. K. Calhoun, J.W. Gibbons, J. P. Gibbs, G. J. Graeter, E. B. Harper, D. J. Hocking, M. L. Hunter, D. A. Patrick, T. A. G. Rittenhouse, B. B. Rothermel, and B. D. Todd. 2009. Effects of timber management on amphibian populations: understanding mechanisms from forest experiments. Bioscience 59(10):853-862. (Cover Photograph)
+Osbourn, M.S., **D.J. Hocking**, C.A. Conner, W.E. Peterman, and R.D. Semlitsch. 2011. Use of fluorescent visible implant Alphanumeric tags to individually mark juvenile ambystomatid salamanders. Herpetological Review 42(1):43-46.
 
-Scheffers, B., E. D. McDonald, D. J. Hocking, C. A. Conner, and R. D. Semlitsch. 2009. A comparison of two artificial cover objects for sampling amphibians and reptiles. Herpetological Review 40(4):419-421.
+**Hocking, D.J.** 2010. *Hyla squirella* (squirrel treefrog) reproduction. Herpetological Review 41(1):64.
 
-Babbitt K. J., M. J. Baber, D. L. Childers, and D. J. Hocking. 2009. The influence of agricultural upland habitat type on larval anuran assemblages in seasonally-inundated wetlands. Wetlands 29(1):294-301.
+Semlitsch, R.D., S.M. Blomquist, A.J.K. Calhoun, J.W. Gibbons, J.P. Gibbs, G.J. Graeter, E.B. Harper, **D.J. Hocking**, M.L. Hunter, D.A. Patrick, T.A.G. Rittenhouse, B.B. Rothermel, and B.D. Todd. 2009. Effects of timber management on amphibian populations: understanding mechanisms from forest experiments. Bioscience 59(10):853-862. (Cover Photograph)
 
-Hocking, D. J. and R. D. Semlitsch. 2008. Effects of clearcut logging on gray treefrog (Hyla versicolor) tadpole performance. Journal of Herpetology 42:689-698.
+Scheffers, B., E.D. McDonald, **D.J. Hocking**, C.A. Conner, and R.D. Semlitsch. 2009. A comparison of two artificial cover objects for sampling amphibians and reptiles. Herpetological Review 40(4):419-421.
 
-Hocking, D. J., T. A. G. Rittenhouse, B. B. Rothermel, J. R. Johnson, C. A. Conner, E. B. Harper, and R. D. Semlitsch. 2008. Breeding and recruitment phenology of amphibians in Missouri oak-hickory forests. American Midland Naturalist 160:41-60.
+Babbitt K.J., M.J. Baber, D.L. Childers, and **D.J. Hocking**. 2009. The influence of agricultural upland habitat type on larval anuran assemblages in seasonally-inundated wetlands. Wetlands 29(1):294-301.
 
-Semlitsch, R. D., C. A. Conner, D. J. Hocking, T. A. G. Rittenhouse, and E. B. Harper. 2008. Effects of timber harvesting on pond-breeding amphibian persistence: testing the evacuation hypothesis. Ecological Applications 18(2):283-289.
+**Hocking, D.J.** and R.D. Semlitsch. 2008. Effects of clearcut logging on gray treefrog (Hyla versicolor) tadpole performance. Journal of Herpetology 42:689-698.
 
-Hocking, D. J. and R. D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
+**Hocking, D.J.**, T.A.G. Rittenhouse, B.B. Rothermel, J.R. Johnson, C.A. Conner, E.B. Harper, and R.D. Semlitsch. 2008. Breeding and recruitment phenology of amphibians in Missouri oak-hickory forests. American Midland Naturalist 160:41-60.
+
+Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Harper. 2008. Effects of timber harvesting on pond-breeding amphibian persistence: testing the evacuation hypothesis. Ecological Applications 18(2):283-289.
+
+**Hocking, D.J.** and R.D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
 
 ## Teaching
@@ -141,7 +145,7 @@ I have mentored 12 undergraduate students (6 women, 6 men) on independent resear
 
 ## Grants and Contracts
 
-### Awarded (Total: $72,135)
+### Grants Awarded (Total: $72,135)
 
 Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $1,329. 
 
@@ -149,7 +153,7 @@ Frostburg State University. Faculty Development Graduate Research Grant. Spatial
 
 Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2018. $2,000
 
-Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fellowship. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
+Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fund. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
 
 Appalachian Highlands Science Learning Center Research Grants. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2017. $1,124
 
@@ -159,13 +163,9 @@ Frostburg State University CLAS Strategic Plan Fund. Salamander population and a
 
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2012. $14,932
  
-NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (Plethodon cinereus) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
+NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (*Plethodon cinereus*) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
 
-### Submitted
-
-Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
-
-### Fellowships and Awards (Total: $352,000)
+### Fellowships and Scholarships (Total: $352,000)
 
 * USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. 2014-2016. $250,000
 * University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011. $16,000
@@ -174,6 +174,10 @@ Frostburg State University Foundation Opportunity Grant. Assessment of Turtle De
 * University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008. $5,000
 * University of Missouri. Trans-World Airlines Scholarship. 2006. $7,000
 * Life Science Fellowship, University of Missouri. 2004-2006. $63,000
+
+### Submitted
+
+Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
 
 ### Not Awarded
 
