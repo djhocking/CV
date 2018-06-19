@@ -42,7 +42,7 @@ State University, Frostburg, MD
 
 **Hocking, D.J.**, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. *in prep*. Setting the baseline: Estimates of current elevational distributions for understanding future climate effects.
 
-Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *submitted*. Regional power analysis to detect brook trout population trends.
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *In Review*. State-space analysis of power to detect regional brook trout population trends over time.
 
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
@@ -137,7 +137,7 @@ Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Har
 
 ### Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Greene (MS, Frostburg State University); Bethany Liberto (MS, Frostburg State University)
+Ryan Stephens (PhD, University of New Hampshire, 2018); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Greene (MS, Frostburg State University); Bethany Liberto (MS, Frostburg State University)
 
 ### Undergraduate Researchers
 
@@ -145,7 +145,7 @@ I have mentored 12 undergraduate students (6 women, 6 men) on independent resear
 
 ## Grants and Contracts
 
-### Grants Awarded (Total: $72,135)
+### Grants Awarded (Total: $350,135)
 
 Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $1,329. 
 
@@ -161,25 +161,24 @@ Frostburg State University. Faculty Development Undergraduate Research Grant. D.
 
 Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
+USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. 2014-2016. $250,000
+
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2012. $14,932
  
 NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (*Plethodon cinereus*) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
 
-### Fellowships and Scholarships (Total: $352,000)
+University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011. $16,000
 
-* USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. 2014-2016. $250,000
-* University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011. $16,000
-* * University of New Hampshire. Summer T.A. Fellowship. 2009. $3,000
-* University of New Hampshire. Summer T.A. Fellowship. 2008. $3,000
-* University of New Hampshire. College of Life Sciences & Agriculture Summer Fellowship. 2008. $5,000
-* University of Missouri. Trans-World Airlines Scholarship. 2006. $7,000
-* Life Science Fellowship, University of Missouri. 2004-2006. $63,000
+University of Missouri. Trans-World Airlines Scholarship. The effects of predators on gray treefrog (*Hyla versicolor*) growth, survival, and development. 2006. $7,000
 
-### Submitted
+\\ ### Fellowships and Scholarships
 
-Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
+
+\\ ### Submitted
 
 ### Not Awarded
+
+Frostburg State University Foundation Opportunity Grant. Assessment of Turtle Densities and Associated Parasites in the C&O Canal National Historic Park. 2018. D.J. Hocking and N. Haydt. $2,753.
 
 Frostburg State University. Faculty Development Graduate Research Grant. D.J. Hocking and Jacey Brooks. 2018. $3,750.
 
@@ -206,6 +205,8 @@ The Wildlife Society, Frostburg State University Chapter. Faculty Advisor. 2017-
 Campus Tree Committee, Frostburg State University. 2016-present.
 
 R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-present. [https://frostburgrusers.wordpress.com/](https://frostburgrusers.wordpress.com/)
+
+Hiring committee. Full-Time, Non-Tenure Track Faculty to teach Introductory Biology, Zoology, and Anatomy and Physiology. 2018.
 
 Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
 
