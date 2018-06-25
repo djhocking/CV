@@ -267,6 +267,20 @@ Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for ovipositi
 
 Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. A geostatistical state-space model of animal abundance for stream networks. 2018. American Association of Geographers Annual Meeting. New Orleans, LA.
 
+Brooks, J.L.*, and D.J. Hocking. The Effects of Acid Mine Drainage and Stream Restoration on Stream-breeding Salamanders. Frostburg State University. Graduate Research Symposium. May 8, 2018. 
+
+Haydt, N.T.*, and D.J. Hocking. Spatial Patterning of Turtle Populations Along the Chesapeake and Ohio Canal. Frostburg State University. Graduate Research Symposium. May 8, 2018. 
+
+Braun, I.**, E. Gaylord**, N. Morris**, F. Sherrard**, and D.J. Hocking. Amphibian Presence and Abundance of Blue Lick Run. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+
+Devine, H.**,  R. Phillip**, S. Cain**, M. Rogers**, and D.J. Hocking. Amphibian and Reptile Survey of Dan’s Mountain WMA. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+
+Stum, M.**, A. Waugh**, D. Moss**, M. McKenzie**, J.L. Brooks*, and D.J. Hocking. Amphibian and Reptile Survey of Warrior Mountain State Wildlife Management Area. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+
+Buckwalter**, S., K. Cagnasso**, B. Moon**, E. Schmidt**, and D.J. Hocking. A Survey of Amphibian and Reptile Fauna at Mount Aetna. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+
+Hansen, J.** and D.J. Hocking. Maryland’s Herpetofauna: Expanding the FSU Amphibian and Reptile Teaching Collection. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+
 Hocking, D. J., K. J. Babbitt, M. Yamasaki. Improved Estimation of Forestry Edge Effects Accounting for Detection Probability. 2013. ESA Annual Meeting. Minneapolis, MN. [http://dx.doi.org/10.6084/m9.figshare.776927](http://dx.doi.org/10.6084/m9.figshare.776927)
 
 Sargent, P. J.**, D. J. Hocking, K. J. Babbitt. Relating Hematological Patterns in Red-backed Salamanders to Stress in Different Habitats and Densities. 2013. Undergraduate Research Conference, UNH, Durham, NH.
