@@ -171,10 +171,10 @@ University of New Hampshire. Dissertation Year Fellowship. The contributions of 
 
 University of Missouri. Trans-World Airlines Scholarship. The effects of predators on gray treefrog (*Hyla versicolor*) growth, survival, and development. 2006. $7,000
 
-\\ ### Fellowships and Scholarships
+<!--( ### Fellowships and Scholarships
 
 
-\\ ### Submitted
+\\ ### Submitted)--> 
 
 ### Not Awarded
 
