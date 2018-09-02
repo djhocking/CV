@@ -145,13 +145,15 @@ I have mentored 12 undergraduate students (6 women, 6 men) on independent resear
 
 ## Grants and Contracts
 
-### Grants Awarded (Total: $350,135)
+### Grants Awarded (Total: $426,599)
+
+National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
 
 Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $1,329. 
 
 Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and Natalie Haydt. 2018. $1,500.
 
-Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, J.R. Milanovich. 2018. $2,000
+Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2018. $2,000
 
 Great Smoky Mountains Conservation Association. Carlos C. Campbell and James T. Tanner Memorial Fund. Short-term Effects of Wildlife on Salamander Populations in Great Moky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, J.R. Milanovich. 2017. $5,000
 
