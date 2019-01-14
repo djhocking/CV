@@ -2,3 +2,6 @@ CV_Old/
 *.doc*
 .DS_Store
 
+.Rproj.user
+
+*sesync
