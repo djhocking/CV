@@ -46,16 +46,20 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 692, *h*-index = 13, *i*10-index = 14)  
+(citations = 712, *h*-index = 13, *i*10-index = 14)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. *In Review*. Proactive management of amphibians: Challenges and opportunities.
 
-Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *In Review*. State-space analysis of power to detect regional brook trout population trends over time.
-
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
+<<<<<<< HEAD
 **Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1767](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1767)
+=======
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *In Press*. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences.
+
+**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767)
+>>>>>>> db564cd7baf248c8ad25fce1559b69db157781a8
 
 Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
