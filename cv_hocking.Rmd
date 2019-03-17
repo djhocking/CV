@@ -46,7 +46,7 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 712, *h*-index = 13, *i*10-index = 14)  
+(citations = 714, *h*-index = 13, *i*10-index = 15)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. *In Review*. Proactive management of amphibians: Challenges and opportunities.
@@ -59,7 +59,7 @@ Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letch
 
 Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
-Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)
+Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [[Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)]
 
 Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
 
@@ -103,13 +103,17 @@ Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Har
 
 **Hocking, D.J.** and R.D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
-# Grants Awarded (Total: $426,599)
+# Grants 
+
+## Submitted
 
 National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
 
-Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks. 2018. $1,329. 
+## Awarded (Total: $350,135)
 
-Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and Natalie Haydt. 2018. $1,500.
+Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks\*. 2018. $1,329. 
+
+Frostburg State University. Faculty Development Graduate Research Grant. Spatial patterns, home ranges, and associated parasites in the Chesapeake and Ohio Canal National Historic Park. D.J. Hocking and N. Haydt\*. 2018. $1,500.
 
 Appalachian Highlands Science Learning Center Research Grants. Effects of Wildlife on Salamander Populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2018. $2,000
 
@@ -121,15 +125,15 @@ Frostburg State University. Faculty Development Undergraduate Research Grant. D.
 
 Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
-USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. 2014-2016. $250,000
+USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. D.J. Hocking.2014-2016. $250,000
 
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2012. $14,932
  
-NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (*Plethodon cinereus*) in forest-floor ecosystem functions. K.J. Babbitt, D.J. Hocking. 2011. $42,000
+NH Agricultural Experiment Station. McIntire-Stennis. The role of red-backed salamanders (*Plethodon cinereus*) in forest-floor ecosystem functions. D.J. Hocking, K.J. Babbitt. 2011. $42,000
 
-University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. 2011. $16,000
+University of New Hampshire. Dissertation Year Fellowship. The contributions of woodland salamanders to ecosystem functions. D.J. Hocking. 2011. $16,000
 
-University of Missouri. Trans-World Airlines Scholarship. The effects of predators on gray treefrog (*Hyla versicolor*) growth, survival, and development. 2006. $7,000
+University of Missouri. Trans-World Airlines Scholarship. The effects of predators on gray treefrog (*Hyla versicolor*) growth, survival, and development. D.J. Hocking. 2006. $7,000
 
 # Teaching
 
@@ -162,6 +166,12 @@ University of Missouri. Trans-World Airlines Scholarship. The effects of predato
 * 2008-2010   Sociology Statistics (Soc 502), University of New Hampshire
 
 * 2009        Contemporary Conservation Issues (NR 435), University of New Hampshire
+
+## Environmental Education
+
+* 2003-2004   Senior Environmental Intern. Audubon Maryland-DC.
+
+* 2001-2003   Seasonal Naturalist. NH Seacoast Science Center. 
 
 ## Certifications
 
@@ -209,7 +219,7 @@ I have mentored 13 undergraduate students (6 women, 7 men) on independent resear
 
 ## General
 
-* Interviewed for articles in *Discover* magazine and *Mongabay.com*. 2018.
+* Interviewed for articles in [*Discover*](http://discovermagazine.com/2018/jul-aug/the-salamander-army) magazine and [*Mongabay.com*](https://news.mongabay.com/2018/12/essential-ubiquity-how-one-tiny-salamander-species-has-a-huge-impact/). 2018.
 
 * Organizing Committee. Northeastern Stream Temperature Monitoring and Analysis Meeting. US Fish and Wildlife Service. Region 5 Regional Office. Hadley, MA. 21-22 February 2017.
 
@@ -219,7 +229,7 @@ I have mentored 13 undergraduate students (6 women, 7 men) on independent resear
 
 * Vice President. Biology Graduate Student Association. University of Missouri. 2005-2006.
 
-* Webmaster. Land-use Effects on Amphibian Populations (LEAP) Collaboration (www.leap.missouri.edu). 2004-2005.
+* Webmaster. Land-use Effects on Amphibian Populations (LEAP) Collaboration. 2004-2005.
 
 * Webmaster. Missouri Chapter of the Society for Conservation Biology. 2005-2006.
 
@@ -237,7 +247,7 @@ I have mentored 13 undergraduate students (6 women, 7 men) on independent resear
 
 * Guest Speaker. Hickman Highschool Biology Club. October 2006. Amphibians, reptiles, and college planning for aspiring biologists.
 
-* BioBlitz Organizer and Team Leader. Columbia, MO. 2005-2006, [http://BioBlitz.missouri.edu](http://BioBlitz.missouri.edu).
+* BioBlitz Organizer and Team Leader. Columbia, MO. 2005-2006.
 
 ## Manuscript Reviewing
 
@@ -253,11 +263,11 @@ Hocking, D.J. *Invited Seminar*: Models and Visualization of Regional Stream Tem
 
 Hocking, D.J. Climate effects on brook trout populations. NECSC Colloquium Webinar. DOI Northeast Climate Science Center, University of Massachusetts-Amherst. [https://necsc.umass.edu/webinars/early-career-showcase](https://necsc.umass.edu/webinars/early-career-showcase). 23 March 2016.
 
-Hocking, D. J., B. Letcher, K. Nislow, Y. Kanno, M. Ratnaswamy, and J. Wofford. Using single-pass surveys to assess spatial and temporal patterns in Brook Trout abundance: Correcting for imperfect detection. American Fisheries Society Annual Meeting, Quebec City, Canada. August 17-21, 2014.
+Hocking, D. J., B. Letcher, K. Nislow, Y. Kanno, M. Ratnaswamy, and J. Wofford. Using single-pass surveys to assess spatial and temporal patterns in Brook Trout abundance: Correcting for imperfect detection. American Fisheries Society Annual Meeting, Quebec City, Canada. 17-21 August 2014.
 
-Hocking, D. J. *Invited Seminar*: The effects of land-use and climate change on amphibian populations. Environmental Science Seminar Series. University of New Hampshire, Durham, NH. October 11, 2013.
+Hocking, D. J. *Invited Seminar*: The effects of land-use and climate change on amphibian populations. Environmental Science Seminar Series. University of New Hampshire, Durham, NH. 11 October 2013.
 
-Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. Ecological Society of America Annual Meeting, Portland, OR. August 4-10, 2012.
+Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. Ecological Society of America Annual Meeting, Portland, OR.4-10 August 2012.
 
 Hocking, D. J. *Invited Seminar*: A great leap backwards: amphibians in crisis. 2009 Department of Natural Resources and the Environment Seminar Series, UNH, Durham, NH.
 
@@ -265,43 +275,43 @@ Hocking, D. J. The role of salamanders in ecosystems. 2008 NRESS Student Seminar
 
 Hocking, D. J., C. A., Conner, E. D. McDonald**, B. Scheffers, and R. D. Semlitsch. Initial Effects of Experimental Forest Management on a Terrestrial, Woodland Salamander in Missouri. 2008 Joint Meetings of Ichthyologists and Herpetologists, Montreal, Canada.
 
-Hocking, D. J. and R. D. Semlitsch. Breeding Site Selection and Tadpole Performance of the Gray Treefrog (Hyla versicolor) in Response to a Forest Gradient. 2007 Ecological Society of America Annual Meeting, San Jose, CA.
+Hocking, D. J. and R. D. Semlitsch. Breeding Site Selection and Tadpole Performance of the Gray Treefrog (*Hyla versicolor*) in Response to a Forest Gradient. 2007 Ecological Society of America Annual Meeting, San Jose, CA.
 
 Hocking, D. J.  Gray treefrog breeding site selection and offspring performance in response to forest management. 2007 Division of Biological Sciences Ecology Seminar Series, University of Missouri. 
 
 Hocking, D. J.  The effects of forest management on larval treefrogs: implications for populations. 2006 Division of Biological Sciences Ecology Seminar Series, University of Missouri. 
 
-Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for oviposition by gray treefrogs (Hyla versicolor) in four managed forest habitats. 2005 Midwest Fish and Wildlife Conference.  
+Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for oviposition by gray treefrogs (*Hyla versicolor*) in four managed forest habitats. 2005 Midwest Fish and Wildlife Conference.  
 
 ## Poster Presentations
 
 Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. A geostatistical state-space model of animal abundance for stream networks. 2018. American Association of Geographers Annual Meeting. New Orleans, LA.
 
-Brooks, J.L.\*, and D.J. Hocking. The Effects of Acid Mine Drainage and Stream Restoration on Stream-breeding Salamanders. Frostburg State University. Graduate Research Symposium. May 8, 2018. 
+Brooks, J.L.\*, and D.J. Hocking. The Effects of Acid Mine Drainage and Stream Restoration on Stream-breeding Salamanders. Frostburg State University. Graduate Research Symposium. 08 May 2018. 
 
-Haydt, N.T.\*, and D.J. Hocking. Spatial Patterning of Turtle Populations Along the Chesapeake and Ohio Canal. Frostburg State University. Graduate Research Symposium. May 8, 2018. 
+Haydt, N.T.\*, and D.J. Hocking. Spatial Patterning of Turtle Populations Along the Chesapeake and Ohio Canal. Frostburg State University. Graduate Research Symposium. 08 May 2018. 
 
-Braun, I.\*\*, E. Gaylord\*\*, N. Morris\*\*, F. Sherrard\*\*, and D.J. Hocking. Amphibian Presence and Abundance of Blue Lick Run. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+Braun, I.\*\*, E. Gaylord\*\*, N. Morris\*\*, F. Sherrard\*\*, and D.J. Hocking. Amphibian Presence and Abundance of Blue Lick Run. Frostburg State University. CLAS Undergraduate Research Symposium. 04 May 2018.
 
-Devine, H.\*\*,  R. Phillip\*\*, S. Cain\*\*, M. Rogers\*\*, and D.J. Hocking. Amphibian and Reptile Survey of Dan’s Mountain WMA. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+Devine, H.\*\*,  R. Phillip\*\*, S. Cain\*\*, M. Rogers\*\*, and D.J. Hocking. Amphibian and Reptile Survey of Dan’s Mountain WMA. Frostburg State University. CLAS Undergraduate Research Symposium. 04 May 2018.
 
-Stum, M.\*\*, A. Waugh\*\*, D. Moss\*\*, M. McKenzie\*\*, J.L. Brooks\*, and D.J. Hocking. Amphibian and Reptile Survey of Warrior Mountain State Wildlife Management Area. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+Stum, M.\*\*, A. Waugh\*\*, D. Moss\*\*, M. McKenzie\*\*, J.L. Brooks\*, and D.J. Hocking. Amphibian and Reptile Survey of Warrior Mountain State Wildlife Management Area. Frostburg State University. CLAS Undergraduate Research Symposium. 04 May 2018.
 
-Buckwalter, S.\*\*, K. Cagnasso\*\*, B. Moon\*\*, E. Schmidt\*\*, and D.J. Hocking. A Survey of Amphibian and Reptile Fauna at Mount Aetna. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+Buckwalter, S.\*\*, K. Cagnasso\*\*, B. Moon\*\*, E. Schmidt\*\*, and D.J. Hocking. A Survey of Amphibian and Reptile Fauna at Mount Aetna. Frostburg State University. CLAS Undergraduate Research Symposium. 04 May 2018.
 
-Hansen, J.\*\* and D.J. Hocking. Maryland’s Herpetofauna: Expanding the FSU Amphibian and Reptile Teaching Collection. Frostburg State University. CLAS Undergraduate Research Symposium. May 4, 2018
+Hansen, J.\*\* and D.J. Hocking. Maryland’s Herpetofauna: Expanding the FSU Amphibian and Reptile Teaching Collection. Frostburg State University. CLAS Undergraduate Research Symposium. 04 May 2018.
 
 Hocking, D. J., K. J. Babbitt, M. Yamasaki. Improved Estimation of Forestry Edge Effects Accounting for Detection Probability. 2013. ESA Annual Meeting. Minneapolis, MN. [http://dx.doi.org/10.6084/m9.figshare.776927](http://dx.doi.org/10.6084/m9.figshare.776927)
 
 Sargent, P. J.\*\*, D. J. Hocking, K. J. Babbitt. Relating Hematological Patterns in Red-backed Salamanders to Stress in Different Habitats and Densities. 2013. Undergraduate Research Conference, UNH, Durham, NH.
 
-Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. World Congress of Herpetology Meeting. Vancouver, BC, Canada. August 8-13, 2012.
+Hocking, D. J. and K. J. Babbitt. Comparisons of models for analyzing seasonal activity using longitudinal count data. World Congress of Herpetology Meeting. Vancouver, BC, Canada. 8-13 August 2012.
 
 Marquis, A. J.\*\*, D. J. Hocking, K. J. Babbitt. Landscape and local-scale effects on stream salamanders in southeastern New Hampshire. 2012. Undergraduate Research Conference, UNH, Durham, NH.
 
 Hocking, D. J., and K. J. Babbitt. The contribution of woodland salamanders in ecosystem functions. 2010 Joint Meetings of Ichthyologists and Herpetologists, Providence, RI.
 
-Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentation on the abundance and body condition of the red backed salamander (Plethodon cinereus). 2010 Undergraduate Research Conference, UNH, Durham, NH.
+Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentation on the abundance and body condition of the red backed salamander (*Plethodon cinereus*). 2010 Undergraduate Research Conference, UNH, Durham, NH.
 
 Hocking, D. J. Contributions of Salamanders to Ecosystem Functions and Services. 2009 Graduate Research Conference, UNH, Durham, NH.
 
@@ -311,13 +321,13 @@ Hocking, D. J., S. A. Callaghan, K. J. Babbitt, M. Yamasaki. The Effects of Natu
 
 Hocking, D. J., T. A. G. Rittenhouse, B. B. Rothermel, J. R. Johnson, C. A. Conner, E. B. Harper, and R. D. Semlitsch. Breeding and recruitment phenology of amphibians in Missouri oak-hickory forests. 2007 Joint Meeting of Ichthyologists and Herpetologists, St. Louis, MO.
 
-Hocking, D. J. and R. D. Semlitsch. Effects of forest management on larval gray treefrogs (Hyla versicolor). 2007 Life Sciences Week, University of Missouri.
+Hocking, D. J. and R. D. Semlitsch. Effects of forest management on larval gray treefrogs (*Hyla versicolor*). 2007 Life Sciences Week, University of Missouri.
 
 Hocking, D. J. and R. D. Semlitsch.  Effects of forest management on larval gray treefrogs. 2006 Midwest and Northeast meetings of Partners for Amphibian and Reptile Conservation. 
 
-Hocking, D. J. and R. D. Semlitsch.  Oviposition site selection by gray treefrogs (Hyla versicolor) in four experimental forest habitats. 2006 University of Missouri Life Sciences Week. 
+Hocking, D. J. and R. D. Semlitsch.  Oviposition site selection by gray treefrogs (*Hyla versicolor*) in four experimental forest habitats. 2006 University of Missouri Life Sciences Week. 
 
-Barlows, A.\*\*, D. J. Hocking, and R. D. Semlitsch.  Effects of shade and predation on survival and growth of larval gray treefrogs (Hyla versicolor) in Missouri.  2006 University of Missouri-Columbia Undergraduate Research and Creative Achievements Forum.  
+Barlows, A.\*\*, D. J. Hocking, and R. D. Semlitsch.  Effects of shade and predation on survival and growth of larval gray treefrogs (*Hyla versicolor*) in Missouri.  2006 University of Missouri-Columbia Undergraduate Research and Creative Achievements Forum.  
 
 Mahan, R. D.\*\*, B. B. Rothermel, D. J. Hocking, J. W. Gibbons, and R. D. Semlitsch. Effects of forest management practices on treefrog oviposition site choice. 2005 Summer Undergraduate Research and Creative Achievements Forum, University of Missouri, Columbia, MO.
 
