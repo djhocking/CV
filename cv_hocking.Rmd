@@ -46,12 +46,12 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 714, *h*-index = 13, *i*10-index = 15)  
+(citations = 738, *h*-index = 13, *i*10-index = 16)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
-Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. *In Review*. Proactive management of amphibians: Challenges and opportunities.
+**Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-**Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Review*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
+Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. *In Press*. Proactive management of amphibians: Challenges and opportunities. Biological Conservation.
 
 Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *In Press*. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences.
 
