@@ -107,7 +107,7 @@ Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Har
 
 ## In Review
 
-National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. D.J. Hocking, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
+National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
 
 ## Awarded (Total: $352,135)
 
@@ -286,6 +286,8 @@ Hocking, D. J.  The effects of forest management on larval treefrogs: implicatio
 Hocking, D. J. and R. D. Semlitsch.  The use of experimental pools for oviposition by gray treefrogs (*Hyla versicolor*) in four managed forest habitats. 2005 Midwest Fish and Wildlife Conference.  
 
 ## Poster Presentations
+
+Hocking, D.J. and L.G. Smith. Hierarchical Bayesian models for climate reconstruction and uncertainty using tree rings. 2019. American Association of Geographers Annual Meeting. Washington, DC. [https://doi.org/10.6084/m9.figshare.8210513.v1](https://doi.org/10.6084/m9.figshare.8210513.v1)
 
 Hocking, D.J., J. Thorson, K. O'Neil, and B.H. Letcher. A geostatistical state-space model of animal abundance for stream networks. 2018. American Association of Geographers Annual Meeting. New Orleans, LA.
 
