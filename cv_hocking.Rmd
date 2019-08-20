@@ -137,6 +137,21 @@ University of New Hampshire. Dissertation Year Fellowship. The contributions of 
 
 University of Missouri. Trans-World Airlines Scholarship. The effects of predators on gray treefrog (*Hyla versicolor*) growth, survival, and development. D.J. Hocking. 2006. $7,000
 
+<!---
+## Not Awarded
+
+Herpetologists League, Raymond Semlitsch Memorial Award. The Effects of Reduced Snowpack on Woodland Salamander Populations. 2019. $5,000
+
+Natalie - Frostburg Foundation
+
+Jacey - FSU
+
+FWS oiled turtles
+
+SERDEP
+
+-->
+
 # Teaching
 
 ## Courses
@@ -193,11 +208,39 @@ University of Missouri. Trans-World Airlines Scholarship. The effects of predato
 
 ## Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire, 2018); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University); Elizabeth Green (MS, Frostburg State University)
+Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University)
 
 ## Undergraduate Researchers
 
-I have mentored 13 undergraduate students (6 women, 7 men) on independent research projects, including multiple first generation college students and one U.S. Army Veteran. 
+I have mentored 14 undergraduate students (6 women, 8 men) on independent research projects, including multiple first generation college students, one U.S. Marine Veteran, and one U.S. Army Veteran. 
+
+<!---
+
+Kodi Bowers. 2019. Snorkel and nestbox surveys of the state-endangered Hellbender (*Cryptobranchus alleganiensis*)
+
+Feodora Offei. 2019. Salamander populations and adaptations: A mark-recapture study.
+
+Shelbi Sullivan. 2019. Red-backed salamander (*Plethodon cinereus*) population dynamics.
+
+Jason Saffer. 2019. 
+
+Justin Hansen. 2017-2018. Collection and curation for an amphibian and reptile teaching collection.
+
+John Garrison - spotted turtles
+
+Brady Moon. 2018. Abundance and distribution of terrestrial salamanders in a Maryland Forest.
+
+Patrick - hematology 
+
+Janine Appleton - hematology
+
+Tessa Corsetti - The effects of habitat type of salamander ecosystem functions.
+
+Mike - stream salamanders
+
+Rachel Mahan - treefrogs
+
+-->
 
 # Professional and Community Service
 
@@ -220,6 +263,8 @@ I have mentored 13 undergraduate students (6 women, 7 men) on independent resear
 * Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
 
 ## General
+
+* Outreach. Led a field trip for high school students to learn about salamander ecology. Purchase Knob, Great Smoky Mountains National Park. 26 June 2019.
 
 * Interviewed for articles in [*Discover*](http://discovermagazine.com/2018/jul-aug/the-salamander-army) magazine and [*Mongabay.com*](https://news.mongabay.com/2018/12/essential-ubiquity-how-one-tiny-salamander-species-has-a-huge-impact/). 2018.
 
