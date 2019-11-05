@@ -65,7 +65,7 @@ Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony 
 
 Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
 
-Earl, J.E., E. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362 [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
+Earl, J.E., E. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
 Letcher, B.H., **D.J. Hocking**, K. O'Neil, A.R. Whiteley, K.H. Nislow, and M.J. O'Donnell. 2016. A hierarchical model of daily stream temperature using air-water temperature synchronization, autocorrelation, and time lags. PeerJ. 4:e1727 [https://doi.org/10.7717/peerj.1727](https://doi.org/10.7717/peerj.1727)
 
@@ -156,6 +156,8 @@ SERDEP
 
 # Teaching
 
+In my current position, I typically teach 15-20 weekly contact-hours per semester including all laboratory sections of each class.
+
 ## Courses
 
 * General Ecology (BIOL 340), Frostburg State University. 2016 - present. Spring, Fall.
@@ -165,6 +167,10 @@ SERDEP
 * Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - present. Fall.
 
 * General Zoology Laboratory (BIOL 160). 2016 - present. Variable.
+
+* Graduate Research Methods (BIOL 600). 2019 - present. Variable.
+
+* Special Problems in Biology (BIOL 499). 2018 - present. Variable.
 
 * Vertebrate Biology (NR 655), University of New Hampshire. 2009.
 
