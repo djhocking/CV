@@ -16,7 +16,7 @@ github: djhocking
 phone: "301-687-4343"
 web: hockinglab.weebly.com
 
-keywords: R Markdown, academic CV, template
+keywords: teaching, academic CV, research
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -46,12 +46,14 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 738, *h*-index = 13, *i*10-index = 16)  
+(citations = 822, *h*-index = 13, *i*10-index = 16)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. *In Press*. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences.
+Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
+
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
 
 Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410.
 
