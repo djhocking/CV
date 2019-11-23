@@ -46,12 +46,14 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 822, *h*-index = 13, *i*10-index = 16)  
+(citations = 828, *h*-index = 14, *i*10-index = 16)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf)]
 
-Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
+Gade, M.R., G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Milanovich, and W.E. Peterman. *In Review*. Predicted alteration of terrestrial salamander surface activity as a consequence of climate change.
+
+Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, and T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
 
 Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
 
@@ -105,15 +107,24 @@ Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Har
 
 **Hocking, D.J.** and R.D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
+## Non-Peer Reviewed
+
+**Hocking, D.J.** 2019. Book Review: The Maryland Amphibian and Reptile Atlas. Eds. H.R. Cunningham and N.H. Nazdrowicz. Herpetological Review. 50(4): 828-829. 
+
+Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. Johnson, D. Kirk, J. Wofford, R. Bennett, K. Nislow, M. Norris, **D.J. Hocking**, B.H. Letcher, A. Roy. 2014. Making decisions in complex landscapes: Headwater stream management across multiple federal agencies. US Geological Survey Whitepaper. Report to the DOI Northeast Climate Science Center. [https://pubs.er.usgs.gov/publication/70193846](https://pubs.er.usgs.gov/publication/70193846)
+
+
 # Grants 
 
 ## In Review
 
 National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
 
+MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $24,987.
+
 ## Awarded (Total: $352,135)
 
-Appalachian Highlands Science Learning Center Research Grants. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2019. $2,000
+Appalachian Highlands Science Learning Center Research Grants. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2019. $2,000.
 
 Frostburg Foundation Opportunity Grant. Effects of acid mine drainage and stream restoration on Plethodontid salamanders. D.J. Hocking and J. Brooks\*. 2018. $1,329. 
 
@@ -129,7 +140,7 @@ Frostburg State University. Faculty Development Undergraduate Research Grant. D.
 
 Frostburg State University CLAS Strategic Plan Fund. Salamander population and adaptation research collaborative network. D.J. Hocking. 2017. $500
 
-USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. D.J. Hocking.2014-2016. $250,000
+USGS Mendenhall Research Fellowship. Hierarchical modeling of climate change effects: Land-use impacts on brook trout population persistence. D.J. Hocking. 2014-2016. $250,000
 
 National Geographic Society. Waitt Grant. Climate change effects on elevational distributions of salamanders in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, J. Milanovich, W.E. Peterman. 2012. $14,932
  
@@ -166,11 +177,11 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 * Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - present. Fall.
 
-* General Zoology Laboratory (BIOL 160). 2016 - present. Variable.
+* General Zoology Laboratory (BIOL 160), Frostburg State University. 2016 - present. Variable.
 
-* Graduate Research Methods (BIOL 600). 2019 - present. Variable.
+* Graduate Research Methods (BIOL 600), Frostburg State University. 2019 - present. Variable.
 
-* Special Problems in Biology (BIOL 499). 2018 - present. Variable.
+* Special Problems in Biology (BIOL 499), Frostburg State University. 2018 - present. Variable.
 
 * Vertebrate Biology (NR 655), University of New Hampshire. 2009.
 
@@ -208,11 +219,13 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Students
 
-* Natalie Haydt, Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - present
+* Emily Phillips. Terrestrial salamander densities and population dynamics. 2019 - present
 
-* Jacey Brooks, The effects of acid mine drainage and remediation on stream salamander populations. 2017 - present
+* Natalie Haydt. Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - present
 
-* Bethany Liberto, Abundance and distribution of rare dragonflies in high elevation bogs. *Co-advised with Dr. Jered Studinski*. 2017 - present
+* Jacey Brooks. The effects of acid mine drainage and remediation on stream salamander populations. 2017 - present
+
+* Bethany Liberto. Abundance and distribution of rare dragonflies in high elevation bogs. *Co-advised with Dr. Jered Studinski*. 2017 - present
 
 ## Graduate Student Committees
 
@@ -244,9 +257,17 @@ Janine Appleton - hematology
 
 Tessa Corsetti - The effects of habitat type of salamander ecosystem functions.
 
-Mike - stream salamanders
-
 Rachel Mahan - treefrogs
+
+Barlows, A.\*\*, D. J. Hocking, and R. D. Semlitsch.  Effects of shade and predation on survival and growth of larval gray treefrogs (*Hyla versicolor*) in Missouri.  2006 University of Missouri-Columbia Undergraduate Research and Creative Achievements Forum.  
+
+Mahan, R. D.\*\*, B. B. Rothermel, D. J. Hocking, J. W. Gibbons, and R. D. Semlitsch. Effects of forest management practices on treefrog oviposition site choice. 2005
+
+Sargent, P. J.\*\*, D. J. Hocking, K. J. Babbitt. Relating Hematological Patterns in Red-backed Salamanders to Stress in Different Habitats and Densities. 2013. Undergraduate Research Conference, UNH, Durham, NH.
+
+Marquis, A. J.Landscape and local-scale effects on stream salamanders in southeastern New Hampshire. 2012. 
+
+Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentation on the abundance and body condition of the red backed salamander (*Plethodon cinereus*)
 
 -->
 
