@@ -41,13 +41,7 @@ urlcolor: blue
 
 **Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. $45,000/year.
 
-Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projectes.  
-
-- elevational distribution of salamanders
-- statistical model of abundance of unmarked individuals
-- supervise undergraduate researchers
-- variation in the role of salamanders in ecosystem functions
-- mark-recapture analysis
+Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
 
 # Education
 
@@ -78,7 +72,8 @@ Pregler, K.C.\*, R.D. Hanks<sup>+</sup>, E. Childress, N.P. Hitt, **D.J. Hocking
 
 Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410.
 
-**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767)
+**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767). [[Code](https://github.com/djhocking/Trout_GRF), 
+[Data](https://github.com/djhocking/Trout_GRF/tree/master/Data)]]
 
 Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. Forest Ecology and Management. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
