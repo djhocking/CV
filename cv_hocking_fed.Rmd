@@ -29,7 +29,7 @@ urlcolor: blue
 
 **Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - present. $65,000/year.
 
-*Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), Graduate Research Methods (BIOL 600), and Graduate Research Statistics (MATH 680 planned 2020). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. {---}Assess the function of spatial and temporal replication to detect changes in fish populations. Coordinate regional data integration and modeling of stream salamander distributions. Develop a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Supervise graduate and undergraduate reserach projects.{---} Identify sources of funding and write grants to support student research. Supervise development of reproducible code for analyses and participate in quality assurance. Present findings at scientific meetings and in peer-reviewed publications. Engage in service to the department, university, profession, and community.
+*Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), Graduate Research Methods (BIOL 600), and Graduate Research Statistics (MATH 680 planned 2020). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. Identify sources of funding and write grants to support student research. Supervise graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Present findings at scientific meetings and in peer-reviewed publications. Projects include assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties include service to the department, university, profession, and community.
 
 **USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. $82,000/year.
 
@@ -41,7 +41,7 @@ urlcolor: blue
 
 **Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. $45,000/year.
 
-Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
+*Duties:* Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
 
 # Education
 
@@ -57,9 +57,12 @@ Assessed populations in response to land-use and environmental change using both
 (citations = 838, *h*-index = 14, *i*10-index = 17)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
-Brooks, J.L.\*, A.B. Brand, E.H. Campbell Grant, and **D.J. Hocking**. *In Preparation*. Stream-breeding salamander occupancy across the Mid-Atlantic region of the United States.
+<!--
+Brooks, J.L.\*, A.B. Brand, E.H. Campbell Grant, and **D.J. Hocking**. *In Preparation*. Stream-breeding salamander occupancy across the Mid-Atlantic region of the United States. [[Code](https://github.com/jclbrooks/MD_Stream_Salamanders/tree/master/Code)]
+-->
 
-N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle densities and home ranges estimated using spatial capture-recapture.
+N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle densities and home ranges estimated using spatial capture-recapture. [[Code](https://github.com/djhocking/co_canal_turtles),
+[Draft]]
 
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf),
 [Interactive Visualization](http://ice.ecosheds.org/)]
