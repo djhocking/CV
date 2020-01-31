@@ -60,9 +60,9 @@ Gade, M.R., G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Mil
 
 Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, and T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
 
-Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155. [https://doi.org/10.1139/cjfas-2018-0241](https://doi.org/10.1139/cjfas-2018-0241)
 
-Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410.
+Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410. [https://doi.org/10.1016/j.biocon.2019.05.057](https://doi.org/10.1016/j.biocon.2019.05.057)
 
 **Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767)
 
@@ -130,7 +130,7 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 
 ## Awarded (Total: $444,832)
 
-MD Department of Natural Resources - Wildlife and Heritage Service. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $16,233.
+MD Department of Natural Resources - Wildlife and Heritage Service. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
 
 National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019. $76,464.
 
@@ -229,7 +229,9 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Students
 
+<!--
 * Emily Phillips. Terrestrial salamander densities and population dynamics. 2019 - present
+-->
 
 * Natalie Haydt. Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - 2019
 
@@ -239,7 +241,7 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University, 2019)
+Ryan Stephens (PhD, University of New Hampshire, 2018); Emily Harlan (MS, Frostburg State University, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Erica Duda (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Stephen Knott (MS, Frostburg State University)
 
 ## Undergraduate Researchers
 
