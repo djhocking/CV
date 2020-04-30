@@ -82,7 +82,7 @@ Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. 
 
 Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [[Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)]
 
-Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
+Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://dx.doi.org/10.1007%2Fs12237-017-0232-3](https://dx.doi.org/10.1007%2Fs12237-017-0232-3)
 
 Earl, J.E., E. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
@@ -133,13 +133,17 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 
 # Grants 
 
+<!--
 ## In Review
+-->
 
-National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
+## Awarded (Total: $444,832)
 
-MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $24,987.
+National Park Service. Survey of amphibian population and disease in the Western C&O Canal National Historical Park. 2020. $35,000. *Declined and not included in award total*
 
-## Awarded (Total: $352,135)
+MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
+
+National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019. $76,464.
 
 Appalachian Highlands Science Learning Center Research Grants. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2019. $2,000.
 
@@ -236,7 +240,9 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Students
 
-* Emily Phillips. Terrestrial salamander densities and population dynamics. 2019 - present
+<!--
+* Emily Phillips. Terrestrial salamander densities and population dynamics. 2019.
+-->
 
 * Natalie Haydt. Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - 2019
 
@@ -254,7 +260,9 @@ I have mentored 14 undergraduate students (6 women, 8 men) on independent resear
 
 <!---
 
-Kodi Bowers. 2019. Snorkel and nestbox surveys of the state-endangered Hellbender (*Cryptobranchus alleganiensis*)
+Allison Williams. 2019-2020. Salamander spatial capture-recapture for population assessment. Hellbender nestbox contruction and surveys.
+
+Kodi Bowers. 2019-2020. Snorkel and nestbox surveys of the state-endangered Hellbender (*Cryptobranchus alleganiensis*).
 
 Feodora Offei. 2019. Salamander populations and adaptations: A mark-recapture study.
 
