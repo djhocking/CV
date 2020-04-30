@@ -27,19 +27,19 @@ urlcolor: blue
 
 # Professional Experience
 
-**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - present. $65,000/year.
+**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - present. $65,000/year. 40 hrs/wk.
 
 *Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), Graduate Research Methods (BIOL 600), and Graduate Research Statistics (MATH 680 planned 2020). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. Identify sources of funding and write grants to support student research. Supervise graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Present findings at scientific meetings and in peer-reviewed publications. Projects include assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties include service to the department, university, profession, and community.
 
-**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. $82,000/year.
+**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. $82,000/year. 40 hrs/wk.
 
 *Duties:* Conducted multiple complex research projects to support natural resource management decisions for freshwater fish and stream ecosystems. Helped cooridnate a regional stream temperature network including more than 20 state and federal agencies, researchers, and NGOs to establish standardized protocols, a central SQL database, and a system of quality control and quality assurance. Developed Bayesian statistical models for daily stream temperature and fish occupancy across the northeastern US and contributed to the implementation of an interactive visualization of the data and model results (http://ice.ecosheds.org/). Formulated a novel geostatistical model of stream fish densities using Template Model Builder (TMB) implemented through the R programming language. Ensured reproducibility and automation using bash scripts and documented in a public GitHub repository.
 
-**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/13 - 06/28/14. $56,000/year.
+**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/13 - 06/28/14. $56,000/year. 40 hrs/wk.
 
 *Duties:* Gathered regional stream data from state and federal partners from Virginia to Maine. Programmatically parsed data from diverse sources to ensure reliability and reproducibility in creation of an SQL database. Developed statistical models to assess climate change effects on stream temperature and stream vertebrate (fish and salamander) populations. Participated in a Structured Decision Making process to facilitate stream management actions across jurisdictional boundaries. Worked with stakeholders to clarify objectives related to management goals and determine data and analysis needs to evaluate alternative actions. Coordinated and helped design expert elicitation to develop and test statistical models based on the best available knowledge.
 
-**Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. $45,000/year.
+**Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. $45,000/year. 40 hrs/wk.
 
 *Duties:* Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
 
@@ -59,6 +59,10 @@ urlcolor: blue
 
 <!--
 Brooks, J.L.\*, A.B. Brand, E.H. Campbell Grant, and **D.J. Hocking**. *In Preparation*. Stream-breeding salamander occupancy across the Mid-Atlantic region of the United States. [[Code](https://github.com/jclbrooks/MD_Stream_Salamanders/tree/master/Code)]
+
+Katz R.A., E. Grant, A. Roy, M. Runge, **D.J. Hocking**, B. Letcher. In Preparation. Challenges facing Collaborative Landscape Conservation: A Decision Analytic Perspective. To be submitted to Frontiers in Ecology and the Environment.
+
+Katz R.A., E. Grant, **D.J. Hocking**, W. Fields, A. Brand, et al. In Preparation. Predicting stream salamander occurrence when data is lacking using expert opinion. To be submitted to Diversity and Distributions.
 -->
 
 N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle densities and home ranges estimated using spatial capture-recapture. [[Code](https://github.com/djhocking/co_canal_turtles),
@@ -134,14 +138,27 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 # Grants 
 
 <!--
+<<<<<<< HEAD
+=======
+
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 ## In Review
 -->
 
 ## Awarded (Total: $444,832)
 
+<<<<<<< HEAD
 National Park Service. Survey of amphibian population and disease in the Western C&O Canal National Historical Park. 2020. $35,000. *Declined and not included in award total*
 
 MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
+=======
+
+-->
+
+## Awarded (Total: $444,832)
+
+MD Department of Natural Resources - Wildlife and Heritage Service. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $16,233.
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 
 National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019. $76,464.
 
