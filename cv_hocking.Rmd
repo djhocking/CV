@@ -27,13 +27,11 @@ urlcolor: blue
 
 # Professional Experience
 
-2016 - present \hspace{1mm} Assistant Professor, Dept. of Biology, Frostburg State University
+**Assistant Professor**, Dept. of Biology, Frostburg State University. 2016 - present.
 
-2014 – 2016 \hspace{5mm} USGS Mendenhall Postdoctoral Fellow, Conte Anadromous Fish Research Lab
+**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. 2014 - 2016
 
-2014 – 2016 \hspace{5mm} Postdoctoral Fellow, DOI Northeast Climate Science Center
-
-2012 – 2013 \hspace{5mm} Postdoctoral Research Associate, University of New Hampshire
+**Postdoctoral Research Associate**, University of New Hampshire. 2012-2013
 
 # Education
 
@@ -49,28 +47,36 @@ urlcolor: blue
 (citations = 838, *h*-index = 14, *i*10-index = 17)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
-Brooks, J.L.\*, A.B. Brand, E.H. Campbell Grant, and **D.J. Hocking**. *In Revision*. Stream-breeding salamander occupancy across the Mid-Atlantic region of the United States.
+<!--
+Brooks, J.L.\*, A.B. Brand, E.H. Campbell Grant, and **D.J. Hocking**. *In Preparation*. Stream-breeding salamander occupancy across the Mid-Atlantic region of the United States. [[Code](https://github.com/jclbrooks/MD_Stream_Salamanders/tree/master/Code)]
+-->
 
-N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle densities and home ranges estimated using spatial capture-recapture.
+N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle densities and home ranges estimated using spatial capture-recapture. [[Code](https://github.com/djhocking/co_canal_turtles),
+[Draft]]
 
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf),
 [Interactive Visualization](http://ice.ecosheds.org/)]
 
-Gade, M.R., G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Milanovich, and W.E. Peterman. *In Review*. Predicted alteration of terrestrial salamander surface activity as a consequence of climate change.
+Gade, M.R.\*, G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Milanovich, and W.E. Peterman. *In Review*. Predicted alteration of terrestrial salamander surface activity as a consequence of climate change.
 
 Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, and T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
 
-Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
+<<<<<<< HEAD
+Pregler, K.C.\*, R.D. Hanks<sup>+</sup>, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
+=======
+Pregler, K.C., R.D. Hanks, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155. [https://doi.org/10.1139/cjfas-2018-0241](https://doi.org/10.1139/cjfas-2018-0241)
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 
-Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410.
+Sterrett, S.C., R.A. Katz, A.B. Brand, W.R. Fields, A.E. Dietrich, **D.J. Hocking**, T.M. Foreman, A.N.M. Wiewel, E.H. Campbell Grant. 2019. Proactive management of amphibians: Challenges and opportunities. Biological Conservation. 236: 404-410. [https://doi.org/10.1016/j.biocon.2019.05.057](https://doi.org/10.1016/j.biocon.2019.05.057)
 
-**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767)
+**Hocking, D.J.**, J. Thorson, K. O'Neil, and B.H. Letcher. 2018. A geostatistical state-space model of animal abundance for stream networks. Ecological Applications. 28: 1782-1796. [https://doi.org/10.1002/eap.1767](https://doi.org/10.1002/eap.1767). [[Code](https://github.com/djhocking/Trout_GRF), 
+[Data](https://github.com/djhocking/Trout_GRF/tree/master/Data)]]
 
 Earl, J.E., E.B. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, M. Glennie, and R.D. Semlitsch. 2017. Relative importance of timber harvest and habitat for reptiles in experimental forestry plots. Forest Ecology and Management. 402: 21-28. [https://doi.org/10.1016/j.foreco.2017.07.014](https://doi.org/10.1016/j.foreco.2017.07.014)
 
 Stephens, R.B.\*, **D.J. Hocking**, M. Yamasaki, and R.J. Rowe. 2017. Synchrony in small mammal community dynamics across a forested landscape. Ecography. 40: 1198–1209. [http://dx.doi.org/10.1111/ecog.02233](http://dx.doi.org/10.1111/ecog.02233). [[Data](http://datadryad.org/resource/doi:10.5061/dryad.76jr5)]
 
-Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://link.springer.com/article/10.1007](https://link.springer.com/article/10.1007)
+Buckman, K., V. Taylor, H. Broadley, **D.J. Hocking**, P. Balcom, R. Mason, K. Nislow, and C. Chen. 2017. Landscape influences on methylmercury bioaccumulation in an urban estuary: Delaware River, USA. Estuaries and Coasts. 40(5):1358–1370. [https://dx.doi.org/10.1007%2Fs12237-017-0232-3](https://dx.doi.org/10.1007%2Fs12237-017-0232-3)
 
 Earl, J.E., E. Harper, **D.J. Hocking**, M.S. Osbourn, T.A.G. Rittenhouse, and R.D. Semlitsch. 2016. Effects of timber harvest on small mammal captures in experimental forestry plots. Animal Biology. 66:347 – 362. [http://dx.doi.org/10.1163/15707563-00002511](http://dx.doi.org/10.1163/15707563-00002511)
 
@@ -121,13 +127,32 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 
 # Grants 
 
+<!--
+<<<<<<< HEAD
+=======
+
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 ## In Review
+-->
 
-National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019 Pending Congressional Authorization. $76,464.
+<<<<<<< HEAD
+## Awarded (Total: $444,832)
 
-MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $24,987.
+<!--
+National Park Service. Survey of amphibian population and disease in the Western C&O Canal National Historical Park. 2020. $35,000. *Declined and not included in award total*
+-->
 
-## Awarded (Total: $352,135)
+MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
+=======
+
+-->
+
+## Awarded (Total: $444,832)
+
+MD Department of Natural Resources - Wildlife and Heritage Service. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
+
+National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019. $76,464.
 
 Appalachian Highlands Science Learning Center Research Grants. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. J.A. Crawford, D.J. Hocking, W.E. Peterman, and J.R. Milanovich. 2019. $2,000.
 
@@ -224,7 +249,13 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Students
 
+<!--
+<<<<<<< HEAD
+* Emily Phillips. Terrestrial salamander densities and population dynamics. 2019.
+=======
 * Emily Phillips. Terrestrial salamander densities and population dynamics. 2019 - present
+>>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
+-->
 
 * Natalie Haydt. Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - 2019
 
@@ -234,15 +265,17 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University, 2019)
+Ryan Stephens (PhD, University of New Hampshire, 2018); Emily Harlan (MS, Frostburg State University, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Erica Duda (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Stephen Knott (MS, Frostburg State University)
 
 ## Undergraduate Researchers
 
-I have mentored 14 undergraduate students (6 women, 8 men) on independent research projects, including multiple first generation college students, one U.S. Marine Veteran, and one U.S. Army Veteran. 
+I have mentored 15 undergraduate students (8 women, 7 men) on independent research projects, including multiple first generation college students, one U.S. Marine Veteran, and one U.S. Army Veteran. 
 
 <!---
 
-Kodi Bowers. 2019. Snorkel and nestbox surveys of the state-endangered Hellbender (*Cryptobranchus alleganiensis*)
+Allison Williams. 2019-2020. Salamander spatial capture-recapture for population assessment. Hellbender nestbox contruction and surveys.
+
+Kodi Bowers. 2019-2020. Snorkel and nestbox surveys of the state-endangered Hellbender (*Cryptobranchus alleganiensis*).
 
 Feodora Offei. 2019. Salamander populations and adaptations: A mark-recapture study.
 
@@ -298,11 +331,11 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 
 * Campus Tree Committee, Frostburg State University. 2016-2019.
 
-* R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-2019. 
+* R Programming and Statistical Users Group, Faculty Advisor, Frostburg State University. 2017-2018. 
 
 * Hiring committee. Full-Time, Non-Tenure Track Faculty to teach Introductory Biology, Zoology, and Anatomy and Physiology. 2018.
 
-* Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
+* Department Evaluation Committee, Biology Department, Frostburg State University. 2017.
 
 ## General
 
