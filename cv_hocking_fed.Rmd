@@ -138,27 +138,14 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 # Grants 
 
 <!--
-<<<<<<< HEAD
-=======
-
->>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 ## In Review
 -->
 
 ## Awarded (Total: $444,832)
 
-<<<<<<< HEAD
 National Park Service. Survey of amphibian population and disease in the Western C&O Canal National Historical Park. 2020. $35,000. *Declined and not included in award total*
 
 MD Department of Natural Resources - Heritage Program. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. 2020. $16,233.
-=======
-
--->
-
-## Awarded (Total: $444,832)
-
-MD Department of Natural Resources - Wildlife and Heritage Service. Construction and establishment of hellbender nestboxes in Maryland. D.J. Hocking. $16,233.
->>>>>>> f5d69b634d9a4ff9231eea0c6f31605f292d9c3a
 
 National Park Service. Natural Resource Stewardship and Science FY19 Servicewide Comprehensive Call. Effects of wildfire on salamander populations in Great Smoky Mountains National Park. W.E. Peterman, D.J. Hocking, J.A. Crawford, and J.R. Milanovich. 2019. $76,464.
 
@@ -200,6 +187,17 @@ Jacey - FSU
 FWS oiled turtles
 
 SERDEP
+
+-->
+
+<!--
+# Awards
+
+Nomination: Frostburg State University. Leadership and Engagement Outstanding Faculty Award. 2020
+
+Nomination: Frostburg State University. College of Liberal Arts and Science. Outstanding Achievements in Research. 2020
+
+Frostburg State University. Meritorious Award for Research. 2018.
 
 -->
 
