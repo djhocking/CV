@@ -8,12 +8,12 @@ geometry: margin=1in
 title: "CV"
 author: Daniel J. Hocking
 
-jobtitle: "Assistant Professor, Frostburg State University"
-address: "Department of Biology · 101 Braddock Road · Frostburg, MD 21532"
+jobtitle: "Statistician, NOAA-Fisheries"
+address: "GARFO Monitoring and Analysis Section · 55 Great Republic Drive · Gloucester, MA 01930"
 fontawesome: yes
-email: djhocking@frostburg.edu
+email: daniel.hocking@noaa.gov
 github: djhocking
-phone: "301-687-4343"
+phone: "978-281-9300"
 web: hockinglab.weebly.com
 
 keywords: teaching, academic CV, research
@@ -27,9 +27,14 @@ urlcolor: blue
 
 # Professional Experience
 
-**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - present. $65,000/year. 40 hrs/wk.
+**Statistician**, Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/20 - present $80,000/year. 40 hrs/wk.
 
-*Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), Graduate Research Methods (BIOL 600), and Graduate Research Statistics (MATH 680 planned 2020). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. Identify sources of funding and write grants to support student research. Supervise graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Present findings at scientific meetings and in peer-reviewed publications. Projects include assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties include service to the department, university, profession, and community.
+*Duties:* Provide customer-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources.
+
+
+**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - 06/15/20 $65,000/year. 40 hrs/wk.
+
+*Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), and Graduate Research Methods (BIOL 600). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. Identify sources of funding and write grants to support student research. Supervise graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Present findings at scientific meetings and in peer-reviewed publications. Projects include assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties include service to the department, university, profession, and community.
 
 **USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. $82,000/year. 40 hrs/wk.
 
@@ -54,7 +59,7 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 838, *h*-index = 14, *i*10-index = 17)  
+(citations = 928, *h*-index = 15, *i*10-index = 17)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 <!--
@@ -128,11 +133,15 @@ Semlitsch, R.D., C.A. Conner, **D.J. Hocking**, T.A.G. Rittenhouse, and E.B. Har
 
 **Hocking, D.J.** and R.D. Semlitsch. 2007. Effects of timber harvest on breeding site selection by gray treefrogs (Hyla versicolor). Biological Conservation 138:506-513.
 
+## White Papers
+
+West Virginia Division of Natural Resources. *In review*. Cheat Mountain salamander (*Plethodon nettingi*) population monitoring plan. pp 1-33.
+
+Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. Johnson, D. Kirk, J. Wofford, R. Bennett, K. Nislow, M. Norris, **D.J. Hocking**, B.H. Letcher, A. Roy. 2014. Making decisions in complex landscapes: Headwater stream management across multiple federal agencies. US Geological Survey Whitepaper. Report to the DOI Northeast Climate Science Center. [https://pubs.er.usgs.gov/publication/70193846](https://pubs.er.usgs.gov/publication/70193846)
+
 ## Non-Peer Reviewed
 
 **Hocking, D.J.** 2019. Book Review: The Maryland Amphibian and Reptile Atlas. Eds. H.R. Cunningham and N.H. Nazdrowicz. Herpetological Review. 50(4): 828-829. 
-
-Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. Johnson, D. Kirk, J. Wofford, R. Bennett, K. Nislow, M. Norris, **D.J. Hocking**, B.H. Letcher, A. Roy. 2014. Making decisions in complex landscapes: Headwater stream management across multiple federal agencies. US Geological Survey Whitepaper. Report to the DOI Northeast Climate Science Center. [https://pubs.er.usgs.gov/publication/70193846](https://pubs.er.usgs.gov/publication/70193846)
 
 
 # Grants 
@@ -203,21 +212,19 @@ Frostburg State University. Meritorious Award for Research. 2018.
 
 # Teaching
 
-In my current position, I typically teach 15-20 weekly contact-hours per semester including all laboratory sections of each class.
-
 ## Courses
 
-* General Ecology (BIOL 340), Frostburg State University. 2016 - present. Spring, Fall.
+* General Ecology (BIOL 340), Frostburg State University. 2016 - 2020. Spring, Fall.
 
-* Herpetology (BIOL 422/522), Frostburg State University. 2017 - present. Spring.
+* Herpetology (BIOL 422/522), Frostburg State University. 2017 - 2020. Spring.
 
-* Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - present. Fall.
+* Quantitative Analysis of Vertebrate Populations (BIOL 414/514). 2017 - 2020. Fall.
 
-* General Zoology Laboratory (BIOL 160), Frostburg State University. 2016 - present. Variable.
+* General Zoology Laboratory (BIOL 160), Frostburg State University. 2016 - 2019. Variable.
 
-* Graduate Research Methods (BIOL 600), Frostburg State University. 2019 - present. Variable.
+* Graduate Research Methods (BIOL 600), Frostburg State University. 2019.
 
-* Special Problems in Biology (BIOL 499), Frostburg State University. 2018 - present. Variable.
+* Special Problems in Biology (BIOL 499), Frostburg State University. 2018 - 2020. Variable.
 
 * Vertebrate Biology (NR 655), University of New Hampshire. 2009.
 
@@ -225,25 +232,25 @@ In my current position, I typically teach 15-20 weekly contact-hours per semeste
 
 ## Teaching Assistant
 
-* 2007, 2009  Wildlife Techniques (NR 646), University of New Hampshire
+* Wildlife Techniques (NR 646), University of New Hampshire. 2007, 2009.
 
-* 2008        Conservation Biology (NR 650), University of New Hampshire
+* Conservation Biology (NR 650), University of New Hampshire. 2008.
 
 ## Tutor
 
-* 2010        Introductory Biology (Bio 412), University of New Hampshire
+* Introductory Biology (Bio 412), University of New Hampshire. 2010.
 
-* 2010        Freshwater Resources (NR 504), University of New Hampshire
+* Freshwater Resources (NR 504), University of New Hampshire. 2010.
 
-* 2008-2010   Sociology Statistics (Soc 502), University of New Hampshire
+* Sociology Statistics (Soc 502), University of New Hampshire. 2008-2010.
 
-* 2009        Contemporary Conservation Issues (NR 435), University of New Hampshire
+* Contemporary Conservation Issues (NR 435), University of New Hampshire. 2009.
 
 ## Environmental Education
 
-* 2003-2004   Senior Environmental Intern. Audubon Maryland-DC.
+* Senior Environmental Intern. Audubon Maryland-DC. 2003-2004.
 
-* 2001-2003   Seasonal Naturalist. NH Seacoast Science Center. 
+* Seasonal Naturalist. NH Seacoast Science Center. 2001-2003.
 
 ## Certifications
 
