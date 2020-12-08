@@ -27,24 +27,24 @@ urlcolor: blue
 
 # Professional Experience
 
-**Statistician**, Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/20 - present $80,000/year. 40 hrs/wk.
+**Statistician**, Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/20 - present. 40 hrs/wk.
 
 *Duties:* Provide customer-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources.
 
 
-**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - 06/15/20 $65,000/year. 40 hrs/wk.
+**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - 06/15/20. 40 hrs/wk.
 
 *Duties:* Teach 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), and Graduate Research Methods (BIOL 600). Advise 30 undergraduate fish and wildlife students. Mentor graduate students and coordinate a research program focused on statistical ecology of fish and wildlife populations. Identify sources of funding and write grants to support student research. Supervise graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Present findings at scientific meetings and in peer-reviewed publications. Projects include assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties include service to the department, university, profession, and community.
 
-**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. $82,000/year. 40 hrs/wk.
+**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist, Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. 40 hrs/wk.
 
 *Duties:* Conducted multiple complex research projects to support natural resource management decisions for freshwater fish and stream ecosystems. Helped cooridnate a regional stream temperature network including more than 20 state and federal agencies, researchers, and NGOs to establish standardized protocols, a central SQL database, and a system of quality control and quality assurance. Developed Bayesian statistical models for daily stream temperature and fish occupancy across the northeastern US and contributed to the implementation of an interactive visualization of the data and model results (http://ice.ecosheds.org/). Formulated a novel geostatistical model of stream fish densities using Template Model Builder (TMB) implemented through the R programming language. Ensured reproducibility and automation using bash scripts and documented in a public GitHub repository.
 
-**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/13 - 06/28/14. $56,000/year. 40 hrs/wk.
+**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/13 - 06/28/14. 40 hrs/wk.
 
 *Duties:* Gathered regional stream data from state and federal partners from Virginia to Maine. Programmatically parsed data from diverse sources to ensure reliability and reproducibility in creation of an SQL database. Developed statistical models to assess climate change effects on stream temperature and stream vertebrate (fish and salamander) populations. Participated in a Structured Decision Making process to facilitate stream management actions across jurisdictional boundaries. Worked with stakeholders to clarify objectives related to management goals and determine data and analysis needs to evaluate alternative actions. Coordinated and helped design expert elicitation to develop and test statistical models based on the best available knowledge.
 
-**Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. $45,000/year. 40 hrs/wk.
+**Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. 40 hrs/wk.
 
 *Duties:* Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
 
@@ -59,7 +59,7 @@ urlcolor: blue
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 928, *h*-index = 15, *i*10-index = 17)  
+(citations = 963, *h*-index = 15, *i*10-index = 20)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 <!--
@@ -76,9 +76,11 @@ N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. *In Revision*. Aquatic turtle
 **Hocking, D.J.**, K. O'Neil, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf),
 [Interactive Visualization](http://ice.ecosheds.org/)]
 
-Gade, M.R.\*, G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Milanovich, and W.E. Peterman. *In Review*. Predicted alteration of terrestrial salamander surface activity as a consequence of climate change.
-
 Anderson, L.T., J.E. Earl, **D.J. Hocking**, M.S. Osbourn, and T.A.G. Rittenhouse. *In Review*. Demographic impacts of phenological variation in natural populations of two pond-breeding salamanders.
+
+**Hocking, D.J.**, J.A. Crawford, W.E. Peterman, and J.R. Milanovich. *In Press*. Abundance of Montane Salamanders Over an Elevational Gradient. Ecology and Evolution. DOI: 10.1002/ece3.7142
+
+Gade, M.R.\*, G.M. Connette, J.A. Crawford, **D.J. Hocking**, J.C. Maerz, J.M. Milanovich, and W.E. Peterman. 2020. Predicted alteration of terrestrial salamander surface activity as a consequence of climate change. 101(11): e03154 [https://doi.org/10.1002/ecy.3154](https://doi.org/10.1002/ecy.3154)
 
 Pregler, K.C.\*, R.D. Hanks<sup>+</sup>, E. Childress, N.P. Hitt, **D.J. Hocking**, B.H. Letcher, T. Wagner, and Y. Kanno. 2019. State-space analysis of power to detect regional brook trout population trends over time. Canadian Journal of Fisheries and Aquatic Sciences. 76(11): 2145-2155.
 
