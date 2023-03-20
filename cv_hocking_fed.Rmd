@@ -25,6 +25,8 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+I am a United States Citizen and registered for Selective Service.
+
 # Professional Experience
 
 **Statistician**, Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/20 - present. 40 hrs/wk. ZP-03
