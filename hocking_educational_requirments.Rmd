@@ -1,0 +1,123 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: latex_cv.tex
+geometry: margin=1in
+
+title: "Qualifications"
+author: Daniel J. Hocking
+
+jobtitle: "Statistician, NOAA-Fisheries"
+address: "GARFO Monitoring and Analysis Section · 55 Great Republic Drive · Gloucester, MA 01930"
+fontawesome: yes
+email: daniel.hocking@noaa.gov
+github: djhocking
+phone: "978-281-9324"
+
+keywords: teaching, academic CV, research
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+## Degree Qualificiations
+
+I have a Ph.D. in Natural Resources and Environmental Studies, a Masters degree in Biological Sciences, and an undergraduate B.S. degree in Environmental Conservation, science option with a minor in Chemical Engineering. All three of these degrees are "directly related to the position". They focused on the collection, management, analysis, and interpretation of natural resource and ecological data using mathematical, statistical, and computational techniques and communicating the results to diverse audiences as needed in data science.
+
+## Education and Experience
+
+I believe that my major degrees provide adequate evidence of my qualifications for the basic degree requirements. However, the titles of courses and the degrees are a bit general and so I included below a list of courses and experiences that would also qualify in this category and benefit me in this position.
+
+## Courses
+
+Below is a list of major courses currently required for a B.S. degree in Analytics and Data Science: Data Science Option at the University of New Hampshire and the courses, equivalent courses, and experience I have to meet the minimum position requirements [https://catalog.unh.edu/undergraduate/engineering-physical-sciences/programs-study/computer-science/analytics-data-science-major-data-science-option-bs/#requirementstext](https://catalog.unh.edu/undergraduate/engineering-physical-sciences/programs-study/computer-science/analytics-data-science-major-data-science-option-bs/#requirementstext):
+
+- **MATH 425	Calculus I	4**: MATH 425H Honors	Calculus I	4
+- **MATH 426	Calculus II	4**: MATH 426	Calculus II	4
+- **MATH 539	Introduction to Statistical Analysis	4**: SOC 502 Introduction to Statistics 4
+- **MATH 645	Linear Algebra for Applications	4**: MATH 527 Differential Equations and Linear Algebra 4
+- **CS 410P	Introduction to Scientific Programming/Python 4**: CS 410 Introduction to Scientific Programming in C 4
+- **DATA 675	Predictive and Prescriptive Analytics I 4**: Stat 7510 Regression and Correlation Analysis 3 (regression is tied to prediction to such an extent that `z <- glm(y ~ x, data)` does the regression and `predict.glm(z, data_new)` does prediction on the new dataset in the R programming language)
+- **MATH 756	Principles of Statistical Inference	4**: Stat 7530 Analysis of Variance 3cr - analysis and inference from structured data with categorical data and also BioSc 8600 Design of Ecological Experiments (3cr) which dealt with designing data collection for appropriate scientific inference.
+- **MATH 755	Probability with Applications	4**: MATH 941 Bayesian Probability and Computational Statistics 3 - Bayes Theorem is a rule or probability that underlies the largest portion of applied statistical probability. This was a graduate course assuming familiarity with basic probability theory and application. The prerequiste requirement in the [course catalog](https://courses.unh.edu/class/201910/16770) "*Prereq: knowledge of intermediate statistics: distributions, discrete and continuous random variables, transformation of variables (calculus based), bivariate and multivariate normal distribution, maximum likelihood estimation; working knowledge of linear regression and analysis of variance; basic linear algebra: vectors and matrices, linear spaces, matrix multiplication, inverse of a matrix, positive definiteness. Matrix-vector notation for linear regression and ANOVA.*"
+- **DATA 790	Capstone Project 1	4**: BioSc 8090 Research in Biological Sciences 2006 (8 cr) - Supervised research focused on quantitative methods for movement and population assessment, using both the SAS and R programming languages (8 cr - counting 4 since that is the degree requirement)
+- **ENGL 502	Professional and Technical Writing	4** - GRAD 951 Teaching with Writing (2cr) writing and teaching writing skills integrated through all science courses, GRAD 950 College Teaching Praxis (2cr) developed a portfolio including a full undergraduate course on science writing, ENGL 501 Intro to Creative Nonfiction (4cr) - course option at the time at UNH for ENGL 502, BioSc 8050 Prof Suvival Skills (3 cr) - course focused on scientific grant writing with the requirement to write, peer review, and submit an National Science Foundation (NSF) grant.
+
+**Course Credits: 40**
+
+From the USAJobs Advertisement: *Have courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.*
+
+
+### Additional Courses with Experience Substitution
+
+- **CS 400	Introduction to Computing	2**:  Taken in high school and therefore tested and excused from taking before taking CS 410. Also taught basic computing skills, programming, and literate programming as a professor in my General Ecology, Quantitative Analysis, and Graduate Research Courses. 
+- **CS 420	Foundations of Programming for Digital Systems	4**: I am a software developer for ROpenSci, specifically with the rnoaa R package. This is production software that has been downloaded thousands of times. The code is open source and publicly available at [https://github.com/ropensci/rnoaa](https://github.com/ropensci/rnoaa).
+- **CS 457	Introduction to Data Science and Analytics	4**: As a Statistician at NOAA (ZP-03) a large part of my job is basic data science and analytics including literate programming to generate automated reports of analytical outputs. We have weekly quota monitoring reports that I programmed in RMarkdown to generate webpages and use bash and command line functions to automate and transfer to our web server. Similarly, I perform regular data requests that entail querying data, analyzing the results, and automatically generating reports as HTML or PDF (basics of data science analytics). Even this document was written in RMarkdown and rendered using the rmarkdown and knitr packages and a custom CSS file. Four months of this experience would be equivalent to a 4 cr college course.
+- **MATH 738	Machine Learning 4**: I've done numerous research projects as a graduate assistant and professor using machine learning algorithms including regression trees, random forests, Support Vector Machines, various clustering analyses, and unsupervised learning algorithms including PCA with PCA for predictions of complicated systems. Example with curling data structures and using PCAs for regression along with smoothing splines: [https://github.com/lgsmith295/pcrecon](https://github.com/lgsmith295/pcrecon)
+- **COMP 525	Data Structures Fundamentals 4**: As a Graduate Research Assistant (2004-2007) at UNH I researched and independently developed a relational database for a complex NFS-funded project across the eastern United States involving 4 universities and more than 30 data generators. The system used Pendragon Software on Palm Pilots to interface with Microsoft Access and included real-time QAQC checking and feedback within the operating system.
+- **CS 515	Data Structures and Introduction to Algorithms	4**: As a Research Ecologist with USGS (GS-12 for > 2 years), main project involved development of a Structured Query Language (SQL) database using PostgreSQL for storage and querying of stream and air temperature data from across the eastern United States with hundreds of millions of records. I developed algorithms to query the system and predict daily stream flow for all streams from Virginia to Maine totally more than 1.8 billion predictions. The algorithms were automated so the system could be updated regularly as new data were submitted and results displayed on an interactive webpage for natural resource decision makers [https://www.usgs.gov/apps/ecosheds/#/](https://www.usgs.gov/apps/ecosheds/#/). Four months of this experience would be equivalent to a 4 cr college course.
+- **CS 775	Database Systems	4**:  As a Statistician at NOAA (ZP-03) I have spent the past two years working as the lead programmer on the Catch Accounting and Monitoring System (CAMS). Part of this has involved setting up, maintaining, and updating tables, views, and materialized views on three different Oracle Database Instances hosted on multiple servers. I have worked with the lead Database Administrator (DBA) for GARFO and NEFSC to troubleshoot and optimize the database system. Four months of this experience would be equivalent to a 4 cr college course.
+
+**Credits through experience: 32**
+
+Remaining courses in the UNH Analytics and Data Science major that I am not claiming equivalent credit:
+
+- MATH 528	Multidimensional Calculus	4
+- MATH 531	Mathematical Proof	4
+- CS 659	Introduction to the Theory of Computation	4
+- CS 750 Data Mining and Predictive Analytics	4
+- CS 758	Algorithms	4
+
+**Total Data Science Credits Claimed: 72**
+
+### Additional Courses Related to the Position
+
+- NR 997 Special Topics in US Environmental Policy in Application (3 cr) - US environmental policy application with fisheries focus taught by Dr. Andy Rosenburg, former northeast regional administrator of the National Marine Fisheries Service at the National Oceanic and Atmospheric Administration.
+
+- BioSc 8700 Ecological Genetics (4 cr) - Understanding ecological genetic concepts but also how to process large amounts of automated genetic data using bash, regular expressions, Python, and other tools in a unix-base system
+
+- NatR 7325 Introduction to Geographic Information Systems (3 cr) - Using GIS data systems to organize, analyze, and map spatial data for Natural Resources. This is a data system regularly used at NMFS including the the job advertised (not explicitly but it's part of one of the critical data systems at NMFS)
+
+- BioSc 8187 Seminar in Areas of Specialization 2006 (1 cr) - Learning MatLab programming for analysis and visualization of animal movement data
+
+- BioSc 8090 Research in Biological Sciences 2006 (8 cr) - Supervised research focused on quantitative methods for movement and population assessment, using both the SAS and R programming languages
+
+- NR 765 Community Ecology (4 cr) - Understanding and quantifying community ecology data. The vast majority of fisheries-related data at NOAA forms the basis for community and ecosystem ecology research at NEFSC
+
+- BIOL 603 Seminar for Project Lake Watch (3 cr) - Integrating and analyzing aquatic samples and satellite imagery data using MatLab and preparing presentations for scientific meetings
+
+- NR 713 Quantitative Ecology (4 cr) - Managing and analyzing ecological data for natural resources and ecological systems. This is what most people at NEFSC spend their time doing so understanding the users needs will help design and optimize data systems
+
+- NR 602 Natural Resources and Environmental Policy (4 cr) - Overview of natural resource and environmental laws, policies, and regulations used in the management of marine, freshwater, and terrestrial systems. All the work at NEFSC contributes to the management of marine natural resources. Understanding the policies and laws helps better design data systems and support users.
+
+- EC 535 Contemporary Conservation Issues (4 cr) - similar to above
+
+- EREC 411 Environmental and Resource Economic Perspectives (4 cr) - Introduction to economics for natural resources. There is a whole social and economic group at NEFSC that I would be working with so this knowledge will be important in supporting SSB.
+
+### Basic Experience
+
+- Taught university course on Quantitative methods at Frostburg State University
+
+- Published scientific papers on new quantitative methods for spatiotemporal analysis of fish data
+
+- Managed a research laboratory as an assistant professor including data collection, management, analysis, and visualization
+
+- Developed databases using various software platforms and automated analyses and web interfaces from these databases as a graduate student, professor, and now in my current role at NOAA
+
+
+## Specialized Experience
+
+*One year (52) weeks of specialized experience at the ZP-03/GS-12 grade level or equivalent pay band in the Federal Service, to include:*
+
+- *Conducting research into new technology or methods, determining system requirements, and coordinating efforts with fisheries scientists and managers.*
+- I have done exactly this for nearly the last three years at the NOAA Greater Atlantic Regional Fisheries Office (GARFO) working directly with members of the Northeast Fisheries Science Center (NEFSC) including the group that this new job will be in. I have developed new methods for imputing effort and other components of the CAMS project, implemented new technologies for interacting with our databases and hosting interactive websites, helped determined system requirements for a new physical linux server, and collaborated with the DBA and end users to transfer data better Oracle databases and move all data and processes to a new database instance. I work regularly with fisheries scientists at GARFO, NEFSC, and research institutions to structure and query data systems and conduct statistical analyses. I also work nearly daily with managers, fisheries councils, industry partners to summarize and analyze data for management actions and policy decisions.
+
+- *Resolving fisheries data science challenges with new and innovative software approaches and advise suggestions for improvement and enhancements on a continual basis throughout the software development life cycle.*
+- As the lead CAMS programmer, I work daily to develop and improve the software program and outputs to meet the needs of our end users and improve database performance. I have continued to advise on solutions for improvements in the upstream data sources and to end user queries and analyses including supporting our Technology and Data Management Division (TDM) for web development using our software and data. For large data analyses that require more RAM than available at one time, I have enhanced our system using Arrow with Parquet data file formats, and made interactive applications using Shiny. I also develop and maintain R packages including the ROpenSci `rnoaa` weather package. As part of that I have worked to regularly improve the system and appropriately handle the software development cycle including continuous integration, automated unit testing, deprecating functions, and archiving. The software is checked to work on more then six operating systems. I have instituted similar software standards and semantic versioning for the CAMS project.
+
+Even excluding any time-in-grade potentially used for educational equivalency, I still have more than 3 years of GS-12/ZP-03 experience directly performing the duties required for this advertised position.
+
