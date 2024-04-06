@@ -29,24 +29,24 @@ I am a United States Citizen and registered for Selective Service.
 
 # Professional Experience
 
-**Statistician** (1530), Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/20 - present. 40 hrs/wk. ZP-03
+**Statistician** (1530), Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/2020 - present. 40 hrs/wk. ZP-03
 
-*Duties:* Provide partner-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources. Serve as the lead programmer for the Catch Accounting and Monitoring System (CAMS) to integrate all fisheries dependent data sources from the Greater Atlantic Region (North Carolina to Maine) to create one set of official records for all users at the regional office and science center ([https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams/index.html)). Develop innovative analytical solutions to meet organizational needs and generate products for internal and external partners with specific deadlines. Work with various partners and stakeholders as the authoritative source of fisheries data science to meet needs and advise on management, policy, and data life cycle decisions. Lead the development and integration of best data science practices including semantic version control of software with GitHub actions for continuous integration, automated Oracle table and view creation, Apache Arrow use for speed and out-of-memory computation when needed, and literate programming for automated, reproducible reports, websites, and interactive intranet applications. Develop guides for other programmers to ensure consistent programming style and structure, news updates, and version control to ensure protection of the main production branch during development. Other regular duties include catch accounting, monitoring, and forecasting of squid, mackerel, and butterfish catch to ensure fisheries closures when needed with adequate time for fleet notification and publication in the Federal Registry and collaborate with team members to support marine ecosystem data requests.
+*Duties:* Provide partner-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources. Serve as the program coordinator and lead programmer for the Catch Accounting and Monitoring System (CAMS) to integrate all fisheries dependent data sources from the Greater Atlantic Region (North Carolina to Maine) to create one set of official records for all users at the regional office and science center ([https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams/index.html)). Develop innovative analytical solutions to meet organizational needs and generate products for internal and external partners with specific deadlines. Work with partners and stakeholders to establish and provide the authoritative source of fisheries data science that meets needs for management, policy, and data life cycle decisions. Lead the development and integration of best data science practices including emerging technologies, semantic version control of software with GitHub actions for continuous integration, automated Oracle table and view creation, Apache Arrow use for speed and out-of-memory computation when needed, and literate programming for automated, reproducible reports, websites, and interactive intranet applications. Develop guides for other programmers to ensure consistent programming style and structure, news updates, and version control to ensure protection of the main production branch during development. Other regular duties include catch accounting, monitoring, and forecasting of squid, mackerel, and butterfish catch to ensure fisheries closures when needed with adequate time for fleet notification and publication in the Federal Registry and collaborate with team members to support marine ecosystem data requests.
 
 
-**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/16 - 06/07/20. 40 hrs/wk.
+**Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/2016 - 06/07/2020. 40 hrs/wk.
 
 *Duties:* Taught 15-21 in-class contact hours per semester including Quantitative Population Analysis (BIOL 414/514), General Ecology (BIOL 340), Herpetology (BIOL 422/522), Zoology Laboratory (BIOL 160), Special Topics in Biology (BIOL 499), and Graduate Research Methods (BIOL 600). Advised 30 undergraduate fish and wildlife students. Mentored graduate students and coordinated a research program focused on statistical ecology of fish and wildlife populations. Identified sources of funding and wrote grants to support student research. Supervised graduate and undergraduate research projects and the development of reproducible code with quality assurance for data processing analyses. Presented findings at scientific meetings and in peer-reviewed publications. Projects included assessing the function of spatial and temporal replication to detect changes in fish populations, coordinating regional data integration and modeling of stream salamander distributions, and developing a Bayesian Spatial Capture-Recapture model of aquatic turtles in the C&O Canal National Historical Park. Other duties included service to the department, university, profession, and community.
 
-**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist (0408), Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/14 - 08/15/16. 40 hrs/wk.
+**USGS Mendenhall Postdoctoral Fellow**, Research Ecologist (0408), Conte Anadromous Fish Research Laboratory, Leetown Science Center. GS-12. 06/29/2014 - 08/15/2016. 40 hrs/wk.
 
 *Duties:* Conducted multiple complex research projects to support natural resource management decisions for freshwater fish and stream ecosystems. Helped coordinate a regional stream temperature network including more than 20 state and federal agencies, researchers, and NGOs to establish standardized protocols, a central SQL database, and a system of quality control and quality assurance. Developed Bayesian statistical models for daily stream temperature and fish occupancy across the northeastern US and contributed to the implementation of an interactive visualization of the data and model results (http://ice.ecosheds.org/). Formulated a novel geostatistical model of stream fish densities using Template Model Builder (TMB) implemented through the R programming language. Ensured reproducibility and automation using bash scripts and documented in a public GitHub repository.
 
-**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/13 - 06/28/14. 40 hrs/wk.
+**Postdoctoral Fellow**, DOI Northeast Climate Science Center. University of Massachusetts. 01/15/2013 - 06/28/2014. 40 hrs/wk.
 
 *Duties:* Gathered regional stream data from state and federal partners from Virginia to Maine. Programmatically parsed data from diverse sources to ensure reliability and reproducibility in creation of an SQL database. Developed statistical models to assess climate change effects on stream temperature and stream vertebrate (fish and salamander) populations. Participated in a Structured Decision Making process to facilitate stream management actions across jurisdictional boundaries. Worked with stakeholders to clarify objectives related to management goals and determine data and analysis needs to evaluate alternative actions. Coordinated and helped design expert elicitation to develop and test statistical models based on the best available knowledge.
 
-**Postdoctoral Research Associate**, University of New Hampshire. 05/25/12 - 01/01/13. 40 hrs/wk.
+**Postdoctoral Research Associate**, University of New Hampshire. 05/25/2012 - 01/01/2013. 40 hrs/wk.
 
 *Duties:* Assessed populations in response to land-use and environmental change using both marked and unmarked methods. Designed and conducted experiment to assess spatial variation in the role of vertebrate density on ecosystem functions. Supervised diverse teams of undergraduates and technicians on field and laboratory projects. Wrote grants to fund research projects. Wrote and administered Animal Use Protocol approved by the IACUC and secured state and federal permits to ensure appropriate and ethical use of animals in research. Designed and conducted field research to assess distributions of salamanders over an elevational gradient in Great Smoky Mountains National Park. Analyzed results, presented at national and international conferences, and published in scientific, peer-reviewed journals.
 
@@ -61,7 +61,7 @@ I am a United States Citizen and registered for Selective Service.
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 1421, *h*-index = 19, *i*10-index = 23)  
+(citations = 1509, *h*-index = 19, *i*10-index = 24)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 <!--
@@ -75,7 +75,9 @@ Katz R.A., E. Grant, **D.J. Hocking**, W. Fields, A. Brand, et al. In Preparatio
 **Hocking, D.J.**, K. O'Neil, J. Walker, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf),
 [Interactive Visualization](http://ice.ecosheds.org/)]
 
-Salois, S.L., , K.J.W. Hyde, A. Silver, A. Gangopadhyay, G. Gawarkiewicz, A.M. Mercer, B.A. Lowman, J.P. Manderson, S.K. Gaichas, **D.J. Hocking**, B. Galuardi, A.W. Jones, J. Kaelin, G. DiDomenico, K. Almeida, B. Bright, M. Lapp. 2023. Shelf break exchange processes influence the availability of the Northern Shortfin Squid, <i>Illex illecebrosus</i>, in the Northwest Atlantic. Fisheries Oceanography. 32(5):461-478 [https://doi.org/10.1111/fog.12640](https://doi.org/10.1111/fog.12640)
+Kessler, E.J., J.A. Crawford, W.E. Peterman, and **D.J. Hocking**. 2024. Reproductive ecology of Southern Pygmy Salamanders (<i>Desmognathus wrighti</i>) along an elevational gradient. Herpetologica. [https://doi.org/10.1655/Herpetologica-D-23-00049](https://doi.org/10.1655/Herpetologica-D-23-00049)
+
+Salois, S.L., K.J.W. Hyde, A. Silver, A. Gangopadhyay, G. Gawarkiewicz, A.M. Mercer, B.A. Lowman, J.P. Manderson, S.K. Gaichas, **D.J. Hocking**, B. Galuardi, A.W. Jones, J. Kaelin, G. DiDomenico, K. Almeida, B. Bright, M. Lapp. 2023. Shelf break exchange processes influence the availability of the Northern Shortfin Squid, <i>Illex illecebrosus</i>, in the Northwest Atlantic. Fisheries Oceanography. 32(5):461-478 [https://doi.org/10.1111/fog.12640](https://doi.org/10.1111/fog.12640)
 
 N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. 2022. Aquatic turtle densities and home ranges estimated using spatial capture-recapture. Journal of Herpetology. 56(2):203-210. [[Code](https://github.com/djhocking/co_canal_turtles)
 
@@ -152,15 +154,16 @@ Katz, R., E.H.C. Grant, M.C. Runge, B. Connery, M. Crockett, L. Herland, S. John
 
 # Software
 
-Chamberlain, S., **D.J. Hocking**, B. Anderson, M. Salmon, A. Erickson, N. Potter, J. Stachelek, A. Simmons, K. Ram, and H. Edmund. 2020 - 2024. rnoaa: 'NOAA' Weather Data from R. R package version 1.3.8. [https://github.com/ropensci/rnoaa](https://github.com/ropensci/rnoaa). Soon to be deprecated due to API change.
-
-**Hocking, D.J.**, J.M. Lanning, B. Galuardi, D. Linden, K. Winiarski, and B. McAfee. 2021 - present. MAPS: Monitoring Analysis Program System for implementing the Catch Accounting and Monitoring System. *Internal NOAA Only*. [https://github.com/noaa-garfo/MAPS](https://github.com/noaa-garfo/MAPS). [Public Website](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams/index.html)
+**Hocking, D.J.**, J.M. Lanning, B. Galuardi, D. Linden, L.G. Smith, K. Winiarski, and B. McAfee. 2021 - present. MAPS: Monitoring Analysis Program System for implementing the Catch Accounting and Monitoring System. *Internal NOAA Only Software:* . [https://github.com/noaa-garfo/MAPS](https://github.com/noaa-garfo/MAPS).  [Public Website](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams/index.html)
 
 Smith, L.G., **D.J. Hocking**, and N. Nagle. 2020 - present. pcrecon: Principal component regression for tree ring data. [https://github.com/lgsmith295/pcrecon](https://github.com/lgsmith295/pcrecon)
 
 **Hocking, D.J.** and L.G. Smith. 2020. dendro_bayes: Testing Bayesian climate modeling with hierarchical standardization. Code: [https://github.com/lgsmith295/dendro_bayes](https://github.com/lgsmith295/dendro_bayes), Example Use: [https://lgsmith295.github.io/dendro_bayes/](https://lgsmith295.github.io/dendro_bayes/)
 
-**Hocking, D.J.** *In Prep*. noaaWeather: NOAA weather data from R for a new API.
+
+Chamberlain, S., **D.J. Hocking**, B. Anderson, M. Salmon, A. Erickson, N. Potter, J. Stachelek, A. Simmons, K. Ram, and H. Edmund. 2020 - 2024. rnoaa: 'NOAA' Weather Data from R. R package version 1.3.8. [https://github.com/ropensci/rnoaa](https://github.com/ropensci/rnoaa). Deprecated due to API change.
+
+**Hocking, D.J.** *In Prep*. noaaWeather: NOAA weather data from R for a new API. A replacement for the rnoaa package.
 
 **Hocking, D.J.** *In Prep*. rfoss: NOAA Fisheries data in R from the Fisheries One Stop Shop API.
 
@@ -298,7 +301,7 @@ Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Fro
 
 ## Undergraduate Researchers
 
-I have mentored 14 undergraduate students (6 women, 8 men) on independent research projects, including multiple first generation college students, one U.S. Marine Veteran, and one U.S. Army Veteran. 
+I have mentored 14 undergraduate students (6 women, 8 men) on independent research projects, including multiple first generation college students and US military veterans. 
 
 <!---
 
@@ -342,7 +345,7 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 
 ## Manuscript Reviewing
 
-**Associate Editor**: Conservation Science and Practice, Societ of Conservation Biology. 2023 - present
+**Associate Editor**: Conservation Science and Practice, Society of Conservation Biology. 2023 - present
 
 **Articles Reviewed For**: AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecology and Evolution, Ecosphere, Fisheries Research, Forest Ecology and Management, Freshwater Biology, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
 
@@ -352,7 +355,7 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 
 * President's Advisory Council on Sustainability (PACS). 2018-2020.
 
-* Faculty Appeals Committee. 2019-present
+* Faculty Appeals Committee. 2019-2020.
 
 ## College Service
 
@@ -373,6 +376,9 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 * Department Evaluation Committee, Biology Department, Frostburg State University. 2016-2017.
 
 ## General
+
+* NOAA Longfin Squid Research Track Assessment Working Group. 2024 - 202
+6. [https://www.fisheries.noaa.gov/event/longfin-inshore-squid-research-track-working-group](https://www.fisheries.noaa.gov/event/longfin-inshore-squid-research-track-working-group)
 
 * Working Group. Cheat Mountain Salamander Endangered Species Act Recovery Monitoring. 2019 - 2020.
 
@@ -497,6 +503,8 @@ Seydewitz, L., M. Driscoll, C. Wason, M. Giguere, D. J. Hocking, E. Falton, J. B
 Falton, E., D. J. Hocking, C. Wason, J. Baker, M. Giguere, L. Seydewitz, M. Driscoll, M. Novak, S. Bradt, J. Campbell, R. Blakemore, and A. Baker.  Project Lake Watch: Looking at lakes with microscopes and satellites. Presented at the 2003 Annual Aquatic Sciences Meeting of the American Society for Limnology and Oceanography. 
 \newpage
 
+<!--
+
 # Qualifications
 
 ## Degree Qualificiations
@@ -565,3 +573,6 @@ I believe that my major degrees provide adequate evidence of my qualifications f
 - Worked for two years in Federal Service at USGS at a GS-12 grade level that included Conducting research into new technology or methods, determining system requirements, and coordinating efforts with fisheries scientists and managers, as well as resolving fisheries data science challenges with new and innovative software approaches and advise suggestions for improvement and enhancements on a continual basis throughout the software development life cycle.
 
 - I have worked for 2.5 years at the NOAA Greater Atlantic Regional Fisheries Office (GARFO) at a ZP-03 grade level and my work as included both criteria of 1) Conducting research into new technology or methods, determining system requirements, and coordinating efforts with fisheries scientists and managers, and 2) Resolving fisheries data science challenges with new and innovative software approaches and advise suggestions for improvement and enhancements on a continual basis throughout the software development life cycle.
+
+-->
+
