@@ -61,7 +61,7 @@ I am a United States Citizen and registered for Selective Service.
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 1509, *h*-index = 19, *i*10-index = 24)  
+(citations = 1530, *h*-index = 19, *i*10-index = 24)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 <!--
@@ -75,9 +75,11 @@ Katz R.A., E. Grant, **D.J. Hocking**, W. Fields, A. Brand, et al. In Preparatio
 **Hocking, D.J.**, K. O'Neil, J. Walker, and B.H. Letcher. *In Revision*. A hierarchical model of daily stream temperature for regional predictions. [[Code](https://github.com/Conte-Ecology/conteStreamTemperature_northeast), [Data](http://db.ecosheds.org/), [Preprint](https://github.com/Conte-Ecology/conteStreamTemperature_northeast/blob/master/manuscripts/northeast_temperature_ms.pdf),
 [Interactive Visualization](http://ice.ecosheds.org/)]
 
+Knott, S.\*, R. Raesly, **D.J. Hocking**, J. Stauffer, and A. Welsh. 2024. Genomic evaluation of mud sunfish in the atlantic slope drainage. Fisheries Research. [https://doi.org/10.1016/j.fishres.2024.107043](https://doi.org/10.1016/j.fishres.2024.107043)
+
 Kessler, E.J., J.A. Crawford, W.E. Peterman, and **D.J. Hocking**. 2024. Reproductive ecology of Southern Pygmy Salamanders (<i>Desmognathus wrighti</i>) along an elevational gradient. Herpetologica. [https://doi.org/10.1655/Herpetologica-D-23-00049](https://doi.org/10.1655/Herpetologica-D-23-00049)
 
-Salois, S.L., K.J.W. Hyde, A. Silver, A. Gangopadhyay, G. Gawarkiewicz, A.M. Mercer, B.A. Lowman, J.P. Manderson, S.K. Gaichas, **D.J. Hocking**, B. Galuardi, A.W. Jones, J. Kaelin, G. DiDomenico, K. Almeida, B. Bright, M. Lapp. 2023. Shelf break exchange processes influence the availability of the Northern Shortfin Squid, <i>Illex illecebrosus</i>, in the Northwest Atlantic. Fisheries Oceanography. 32(5):461-478 [https://doi.org/10.1111/fog.12640](https://doi.org/10.1111/fog.12640)
+Salois, S.L.<sup>+</sup>, K.J.W. Hyde, A. Silver, A. Gangopadhyay, G. Gawarkiewicz, A.M. Mercer, B.A. Lowman, J.P. Manderson, S.K. Gaichas, **D.J. Hocking**, B. Galuardi, A.W. Jones, J. Kaelin, G. DiDomenico, K. Almeida, B. Bright, M. Lapp. 2023. Shelf break exchange processes influence the availability of the Northern Shortfin Squid, <i>Illex illecebrosus</i>, in the Northwest Atlantic. Fisheries Oceanography. 32(5):461-478 [https://doi.org/10.1111/fog.12640](https://doi.org/10.1111/fog.12640)
 
 N.T. Haydt\*, S.C. Sterrett, and **D.J. Hocking**. 2022. Aquatic turtle densities and home ranges estimated using spatial capture-recapture. Journal of Herpetology. 56(2):203-210. [[Code](https://github.com/djhocking/co_canal_turtles)
 
