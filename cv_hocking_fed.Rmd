@@ -31,7 +31,7 @@ I am a United States Citizen and registered for Selective Service.
 
 **Statistician** (1530), Greater Atlantic Regional Fisheries Office, National Marine Fisheries Service, NOAA. 06/08/2020 - present. 40 hrs/wk. ZP-03
 
-*Duties:* Provide partner-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources. Serve as the program coordinator and lead programmer for the Catch Accounting and Monitoring System (CAMS) to integrate all fisheries dependent data sources from the Greater Atlantic Region (North Carolina to Maine) to create one set of official records for all users at the regional office and science center ([https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams](https://www.greateratlantic.fisheries.noaa.gov/ro/fso/reports/cams/index.html)). Develop innovative analytical solutions to meet organizational needs and generate products for internal and external partners with specific deadlines. Work with partners and stakeholders to establish and provide the authoritative source of fisheries data science that meets needs for management, policy, and data life cycle decisions. Lead the development and integration of best data science practices including emerging technologies, semantic version control of software with GitHub actions for continuous integration, automated Oracle table and view creation, Apache Arrow use for speed and out-of-memory computation when needed, and literate programming for automated, reproducible reports, websites, and interactive intranet applications. Develop guides for other programmers to ensure consistent programming style and structure, news updates, and version control to ensure protection of the main production branch during development. Other regular duties include catch accounting, monitoring, and forecasting of catch to ensure fisheries closures when needed with adequate time for fleet notification and publication in the Federal Registry and collaborate with team members to support marine ecosystem data requests.
+*Duties:* Provide partner-driven analyses in support of marine fisheries monitoring, sustainable harvest, and protected resources. Serve as the program coordinator and lead programmer for the Catch Accounting and Monitoring System (CAMS) to integrate all fisheries dependent data sources from the Greater Atlantic Region (North Carolina to Maine) to create one set of official records for all users at the regional office and science center ([https://apps-garfo.fisheries.noaa.gov/cams](https://apps-garfo.fisheries.noaa.gov/cams)). Develop innovative analytical solutions to meet organizational needs and generate products for internal and external partners with specific deadlines. Work with partners and stakeholders to establish and provide the authoritative source of fisheries data science that meets needs for management, policy, and data life cycle decisions. Lead the development and integration of best data science practices including emerging technologies, semantic version control of software with GitHub actions for continuous integration, automated Oracle table and view creation, Apache Arrow use for speed and out-of-memory computation when needed, and literate programming for automated, reproducible reports, websites, and interactive intranet applications. Develop guides for other programmers to ensure consistent programming style and structure, news updates, and version control to ensure protection of the main production branch during development. Other regular duties include catch accounting, monitoring, and forecasting of catch to ensure fisheries closures when needed with adequate time for fleet notification and publication in the Federal Registry and collaborate with team members to support marine ecosystem data requests.
 
 
 **Assistant Professor**, Dept. of Biology, Frostburg State University. 08/25/2016 - 06/07/2020. 40 hrs/wk.
@@ -61,7 +61,7 @@ I am a United States Citizen and registered for Selective Service.
 # Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=qIFCelIAAAAJ)
-(citations = 1585, *h*-index = 19, *i*10-index = 24)  
+(citations = 1906, *h*-index = 21, *i*10-index = 26)  
 \*\*undergraduate, \*graduate student, <sup>+</sup>postdoc
 
 <!--
@@ -72,8 +72,9 @@ Katz R.A., E. Grant, A. Roy, M. Runge, **D.J. Hocking**, B. Letcher. In Preparat
 Katz R.A., E. Grant, **D.J. Hocking**, W. Fields, A. Brand, et al. In Preparation. Predicting stream salamander occurrence when data is lacking using expert opinion. To be submitted to Diversity and Distributions.
 -->
 
+Donini, J., A. Rodriguez, J. Drew, **D.J. Hocking**, S. Tetzlaff, and R. Speer. 2025. Home range, habitat use, and behaviors of Florida box turtles, *Terrapene carolina bauri* at an enclosed site in southwestern Florida. The Journal of North American Herpetology. 2025(1):59-70. [https://doi.org/10.17161/jnah.v2025i1.23826](https://doi.org/10.17161/jnah.v2025i1.23826)
 
-Grant, E.H.C., J. Fleming, E. Bastiaans, A.B. Brand, J.L. Brooks Jacey\*, C. Devlin, E. Epp, M. Evans, M.C. Fisher-Reid, B. Gratwicke, K.L. Grayson Kristine, N.T. Haydt\*, R. Hernández-Pacheco, **D.J. Hocking**, A. Hyde, M. Losito, M.G. MacKnight, T.J.H. Matlaga, L. Mead, D. Muñoz, W.E. Peterman, V. Puza, C. Shafer, S.C. Sterrett, C. Sutherland, L.M. Thompson, A.R. Warwick, A.D. Wright, K. Yurewicz, and D.A.W. Miller. 2024Range-wide salamander densities reveal a key component of terrestrial vertebrate biomass in eastern North American forests. Biology Letters. 20:20240033. [https://doi.org/10.1098/rsbl.2024.0033](https://doi.org/10.1098/rsbl.2024.0033), [Data](https://doi.org/10.5061/dryad.h44j0zpvf)
+Grant, E.H.C., J. Fleming, E. Bastiaans, A.B. Brand, J.L. Brooks Jacey\*, C. Devlin, E. Epp, M. Evans, M.C. Fisher-Reid, B. Gratwicke, K.L. Grayson Kristine, N.T. Haydt\*, R. Hernández-Pacheco, **D.J. Hocking**, A. Hyde, M. Losito, M.G. MacKnight, T.J.H. Matlaga, L. Mead, D. Muñoz, W.E. Peterman, V. Puza, C. Shafer, S.C. Sterrett, C. Sutherland, L.M. Thompson, A.R. Warwick, A.D. Wright, K. Yurewicz, and D.A.W. Miller. 2024. Range-wide salamander densities reveal a key component of terrestrial vertebrate biomass in eastern North American forests. Biology Letters. 20:20240033. [https://doi.org/10.1098/rsbl.2024.0033](https://doi.org/10.1098/rsbl.2024.0033), [Data](https://doi.org/10.5061/dryad.h44j0zpvf)
 
 Knott, S.\*, R. Raesly, **D.J. Hocking**, J. Stauffer, and A. Welsh. 2024. Genomic evaluation of mud sunfish in the Atlantic slope drainage. Fisheries Research. [https://doi.org/10.1016/j.fishres.2024.107043](https://doi.org/10.1016/j.fishres.2024.107043)
 
@@ -231,7 +232,9 @@ SERDEP
 
 # Awards
 
-Employee of the Year. 2023. Greater Atlantic Regional Fisheries Office. National Oceanic and Atmospheric Administration. US Department of Commerce.
+Department of Commerce Bronze Medal. 2026. Awarded to the Catch Accounting and Monitoring (CAMS) Team for development of an innovative shared data system to provide multi-mission support. US Department of Commerce.
+
+Employee of the Year. 2022. Greater Atlantic Regional Fisheries Office. National Oceanic and Atmospheric Administration. US Department of Commerce.
 
 College Outstanding Achievements in Research. 2020. Frostburg State University. College of Liberal Arts and Science. 
 
@@ -290,10 +293,6 @@ Meritorious Award for Research. 2018. Frostburg State University. College of Lib
 
 ## Graduate Students
 
-<!--
-* Emily Phillips. Terrestrial salamander densities and population dynamics. 2019.
--->
-
 * Natalie Haydt. Spatial capture-recapture and disease of turtles along a depth gradient in the C&O Canal. 2017 - 2019
 
 * Jacey Brooks. The effects of acid mine drainage and remediation on stream salamander populations. 2017 - 2019
@@ -302,7 +301,7 @@ Meritorious Award for Research. 2018. Frostburg State University. College of Lib
 
 ## Graduate Student Committees
 
-Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University); Emily Harlan (MS, Frostburg State University); Erica Duda (MS, Frostburg State University, 2019); Stephen Knott (MS, Frostburg State University, 2022)
+Ryan Stephens (PhD, University of New Hampshire, 2018); Elizabeth Green (MS, Frostburg State University, 2019); Sabrina Edwards (MS, Frostburg State University, 2019); Emily Harlan (MS, Frostburg State University, 2019); Erica Duda (MS, Frostburg State University, 2019); Stephen Knott (MS, Frostburg State University, 2022)
 
 ## Undergraduate Researchers
 
@@ -350,7 +349,7 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 
 ## Manuscript Reviewing
 
-**Associate Editor**: Conservation Science and Practice, Society of Conservation Biology. 2023 - present
+**Associate Editor**: Conservation Science and Practice, Society of Conservation Biology. 2023 - 2025
 
 **Articles Reviewed For**: AMBIO, Bioscience, Conservation Biology, Copeia, Ecological Applications, Ecology and Evolution, Ecosphere, Fisheries Research, Forest Ecology and Management, Freshwater Biology, Global Change Biology, Herpetological Conservation and Biology, Herpetological Review, Journal of Herpetology, Journal of Wildlife Management, Northeastern Naturalist, Oikos, PeerJ, PLoS ONE, Urban Ecosystems, Wetlands
 
@@ -382,7 +381,7 @@ Willey, E.\*\*, D. J. Hocking, K. J. Babbitt. The effects of forest fragmentatio
 
 ## General
 
-* NOAA Longfin Squid Research Track Assessment Working Group. 2024 - 202
+* NOAA Longfin Squid Research Track Assessment Working Group. 2024 - 2026
 6. [https://www.fisheries.noaa.gov/event/longfin-inshore-squid-research-track-working-group](https://www.fisheries.noaa.gov/event/longfin-inshore-squid-research-track-working-group)
 
 * Working Group. Cheat Mountain Salamander Endangered Species Act Recovery Monitoring. 2019 - 2020.
